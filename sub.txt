@@ -1,4 +1,4 @@
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryption=none&type=tcp#📊 Remaining: 178.08 GB
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryption=none&type=tcp#📊 Remaining: 151.28 GB
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryption=none&type=tcp#✈️ Telegram: @AtbiNNN
 vless://b538377e-c372-414d-bd02-becfed21852f@162.159.204.1:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Flives&security=tls&sni=shazam.wbciran.com&type=ws#USA%20%F0%9F%87%BA%F0%9F%87%B8NY
 vless://b538377e-c372-414d-bd02-becfed21852f@141.101.113.43:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Flives&security=tls&sni=shazam.wbciran.com&type=ws#USA%20%F0%9F%87%BA%F0%9F%87%B8NY
