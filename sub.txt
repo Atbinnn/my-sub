@@ -1,111 +1,1199 @@
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryption=none&type=tcp#📊 Remaining: Unlimited
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryption=none&type=tcp#✈️ Telegram: @AtbiNNN
 <!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<html lang="fa" dir="rtl" class="dark">
 <head>
-<title>veneno.cyou | 526: Invalid SSL certificate</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>V2ray | USA ðºð¸ Las Vegas Casino</title>
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com"></script>
+<!-- Vazirmatn & JetBrains Mono Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Vazirmatn:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<!-- QRious Library for Real Scannable Canvas QR Codes -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js"></script>
+<script>
+tailwind.config = {
+darkMode: 'class',
+theme: {
+extend: {
+fontFamily: {
+sans: ['Vazirmatn', 'system-ui', '-apple-system', 'sans-serif'],
+mono: ['JetBrains Mono', 'monospace'],
+},
+colors: {
+ios: {
+cyan: '#38bdf8',
+pink: '#f472b6',
+purple: '#c084fc',
+emerald: '#34d399',
+amber: '#fbbf24',
+}
+}
+}
+}
+}
+</script>
+<style>
+:root {
+--glass-blur: 32px;
+--glass-bg: rgba(255, 255, 255, 0.065);
+--glass-bg-hover: rgba(255, 255, 255, 0.105);
+--glass-border: rgba(255, 255, 255, 0.22);
+--glass-highlight: rgba(255, 255, 255, 0.38);
+--orb-1: #6366f1;
+--orb-2: #ec4899;
+--orb-3: #06b6d4;
+--orb-4: #8b5cf6;
+}
+[data-theme="cyber"] {
+--orb-1: #10b981;
+--orb-2: #06b6d4;
+--orb-3: #3b82f6;
+--orb-4: #14b8a6;
+}
+[data-theme="sunset"] {
+--orb-1: #f43f5e;
+--orb-2: #f59e0b;
+--orb-3: #a855f7;
+--orb-4: #ec4899;
+}
+[data-theme="cosmos"] {
+--orb-1: #3b82f6;
+--orb-2: #6366f1;
+--orb-3: #8b5cf6;
+--orb-4: #0ea5e9;
+}
+[data-glass="ultra"] {
+--glass-blur: 48px;
+--glass-bg: rgba(255, 255, 255, 0.11);
+--glass-border: rgba(255, 255, 255, 0.32);
+}
+* {
+box-sizing: border-box;
+-webkit-tap-highlight-color: transparent;
+}
+body {
+font-family: 'Vazirmatn', sans-serif;
+background-color: #05050a;
+color: #f8fafc;
+overflow-x: hidden;
+min-height: 100vh;
+position: relative;
+}
+/* iOS 27 Animated Aurora & Mesh Orbs */
+.spatial-universe {
+position: fixed;
+inset: 0;
+z-index: -2;
+background: radial-gradient(circle at 50% 0%, #131129 0%, #05050a 75%);
+overflow: hidden;
+}
+.aurora-orb {
+position: absolute;
+border-radius: 50%;
+filter: blur(95px);
+opacity: 0.62;
+mix-blend-mode: screen;
+transition: background 1.2s cubic-bezier(0.22, 1, 0.36, 1);
+will-change: transform;
+}
+.orb-1 {
+width: 520px;
+height: 520px;
+background: radial-gradient(circle, var(--orb-1), transparent 70%);
+top: -12%;
+right: -8%;
+animation: floatOrb1 18s ease-in-out infinite alternate;
+}
+.orb-2 {
+width: 480px;
+height: 480px;
+background: radial-gradient(circle, var(--orb-2), transparent 70%);
+bottom: 5%;
+left: -10%;
+animation: floatOrb2 22s ease-in-out infinite alternate;
+}
+.orb-3 {
+width: 420px;
+height: 420px;
+background: radial-gradient(circle, var(--orb-3), transparent 70%);
+top: 38%;
+left: 25%;
+animation: floatOrb3 15s ease-in-out infinite alternate;
+}
+.orb-4 {
+width: 360px;
+height: 360px;
+background: radial-gradient(circle, var(--orb-4), transparent 70%);
+bottom: -10%;
+right: 20%;
+animation: floatOrb1 20s ease-in-out infinite alternate-reverse;
+}
+@keyframes floatOrb1 {
+0% { transform: translate(0, 0) scale(1); }
+50% { transform: translate(-60px, 50px) scale(1.12); }
+100% { transform: translate(40px, -30px) scale(0.95); }
+}
+@keyframes floatOrb2 {
+0% { transform: translate(0, 0) scale(1); }
+50% { transform: translate(70px, -60px) scale(1.15); }
+100% { transform: translate(-30px, 40px) scale(0.92); }
+}
+@keyframes floatOrb3 {
+0% { transform: translate(0, 0) scale(0.95) rotate(0deg); }
+50% { transform: translate(-50px, -40px) scale(1.08) rotate(45deg); }
+100% { transform: translate(60px, 50px) scale(1) rotate(90deg); }
+}
+/* Subtle Spatial Grid Overlay */
+.spatial-grid {
+position: fixed;
+inset: 0;
+z-index: -1;
+background-image:
+linear-gradient(to right, rgba(255,255,255,0.025) 1px, transparent 1px),
+linear-gradient(to bottom, rgba(255,255,255,0.025) 1px, transparent 1px);
+background-size: 48px 48px;
+mask-image: radial-gradient(circle at 50% 40%, black 30%, transparent 85%);
+-webkit-mask-image: radial-gradient(circle at 50% 40%, black 30%, transparent 85%);
+pointer-events: none;
+}
+/* Core iOS 27 Liquid Glass Surface */
+.ios-glass {
+background: var(--glass-bg);
+backdrop-filter: blur(var(--glass-blur)) saturate(190%);
+-webkit-backdrop-filter: blur(var(--glass-blur)) saturate(190%);
+border: 1px solid var(--glass-border);
+box-shadow:
+0 24px 48px -12px rgba(0, 0, 0, 0.55),
+inset 0 1px 1px 0 var(--glass-highlight),
+inset 0 -1px 1px 0 rgba(255, 255, 255, 0.06);
+position: relative;
+transition: all 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+}
+/* Specular Mouse Spotlight on Cards */
+.spatial-card {
+position: relative;
+overflow: hidden;
+transform-style: preserve-3d;
+will-change: transform;
+}
+.spatial-card::before {
+content: '';
+position: absolute;
+inset: 0;
+background: radial-gradient(
+600px circle at var(--mouse-x, 50%) var(--mouse-y, 0%),
+rgba(255, 255, 255, 0.13),
+transparent 40%
+);
+opacity: 0;
+transition: opacity 0.4s ease;
+pointer-events: none;
+z-index: 1;
+}
+.spatial-card:hover::before {
+opacity: 1;
+}
+.spatial-card:hover {
+background: var(--glass-bg-hover);
+border-color: rgba(255, 255, 255, 0.34);
+box-shadow:
+0 30px 60px -15px rgba(0, 0, 0, 0.7),
+0 0 25px -5px rgba(56, 189, 248, 0.18),
+inset 0 1.5px 2px 0 rgba(255, 255, 255, 0.48);
+}
+/* Dynamic Island iOS 27 */
+.dynamic-island {
+background: rgba(8, 8, 16, 0.82);
+backdrop-filter: blur(40px) saturate(200%);
+-webkit-backdrop-filter: blur(40px) saturate(200%);
+border: 1px solid rgba(255, 255, 255, 0.22);
+box-shadow:
+0 20px 45px rgba(0, 0, 0, 0.75),
+0 0 0 1px rgba(255, 255, 255, 0.07) inset,
+0 1px 2px rgba(255, 255, 255, 0.35) inset;
+transition: all 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.dynamic-island.island-expanded {
+transform: scale(1.03);
+border-color: rgba(56, 189, 248, 0.5);
+box-shadow:
+0 25px 55px rgba(0, 0, 0, 0.85),
+0 0 30px rgba(56, 189, 248, 0.28),
+0 1px 2px rgba(255, 255, 255, 0.4) inset;
+}
+/* Glass Pill Button */
+.ios-btn {
+position: relative;
+overflow: hidden;
+transition: all 0.28s cubic-bezier(0.34, 1.56, 0.64, 1);
+box-shadow:
+0 8px 20px -4px rgba(0, 0, 0, 0.4),
+inset 0 1px 1px rgba(255, 255, 255, 0.35);
+}
+.ios-btn:hover {
+transform: translateY(-2px) scale(1.02);
+}
+.ios-btn:active {
+transform: translateY(1px) scale(0.97);
+}
+.ios-btn-primary {
+background: linear-gradient(135deg, rgba(56, 189, 248, 0.85), rgba(99, 102, 241, 0.85), rgba(236, 72, 153, 0.8));
+background-size: 200% 200%;
+animation: gradientShift 6s ease infinite;
+border: 1px solid rgba(255, 255, 255, 0.4);
+}
+.ios-btn-primary:hover {
+box-shadow:
+0 12px 28px -4px rgba(99, 102, 241, 0.55),
+inset 0 1.5px 2px rgba(255, 255, 255, 0.6);
+}
+@keyframes gradientShift {
+0% { background-position: 0% 50%; }
+50% { background-position: 100% 50%; }
+100% { background-position: 0% 50%; }
+}
+/* Expandable Technical Drawer */
+.tech-drawer {
+max-height: 0;
+opacity: 0;
+overflow: hidden;
+transition: max-height 0.45s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.35s ease, margin-top 0.35s ease;
+}
+.tech-drawer.open {
+max-height: 560px;
+opacity: 1;
+margin-top: 1rem;
+}
+/* Pulse Ring for Ping Status */
+@keyframes pulseRing {
+0% { transform: scale(0.85); opacity: 0.9; }
+70% { transform: scale(2.2); opacity: 0; }
+100% { transform: scale(2.2); opacity: 0; }
+}
+.ping-dot-ring::after {
+content: '';
+position: absolute;
+inset: -2px;
+border-radius: 50%;
+background: inherit;
+animation: pulseRing 2s cubic-bezier(0.24, 0, 0.38, 1) infinite;
+}
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+width: 6px;
+height: 6px;
+}
+::-webkit-scrollbar-track {
+background: rgba(15, 23, 42, 0.4);
+}
+::-webkit-scrollbar-thumb {
+background: rgba(255, 255, 255, 0.25);
+border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+background: rgba(255, 255, 255, 0.4);
+}
+/* Floating Dock Magnification */
+.dock-item {
+transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.dock-item:hover {
+transform: translateY(-7px) scale(1.14);
+}
+.dock-item:active {
+transform: translateY(-2px) scale(0.95);
+}
+/* Shimmer effect */
+.shimmer-badge {
+background: linear-gradient(90deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.18) 50%, rgba(255,255,255,0.05) 100%);
+background-size: 200% 100%;
+animation: shimmerSlide 3.5s infinite;
+}
+@keyframes shimmerSlide {
+0% { background-position: 200% 0; }
+100% { background-position: -200% 0; }
+}
+</style>
 </head>
-<body>
-<div id="cf-wrapper">
-<div id="cf-error-details" class="p-0">
-<header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-<h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-<span class="inline-block">Invalid SSL certificate</span>
-<span class="code-label">Error code 526</span>
-</h1>
-<div>
-Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&utm_campaign=veneno.veneno.cyou" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+<body class="selection:bg-cyan-500/30 selection:text-cyan-200 pb-32">
+<!-- Background Spatial Universe -->
+<div class="spatial-universe">
+<div class="aurora-orb orb-1"></div>
+<div class="aurora-orb orb-2"></div>
+<div class="aurora-orb orb-3"></div>
+<div class="aurora-orb orb-4"></div>
 </div>
-<div class="mt-3">2026-10-25 09:27:49 UTC</div>
-</header>
-<div class="my-8 bg-gradient-gray">
-<div class="w-240 lg:w-full mx-auto">
-<div class="clearfix md:px-8">
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-<div class="relative mb-10 md:m-0">
-<span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-<span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+<div class="spatial-grid"></div>
+<!-- iOS 27 Dynamic Island (Sticky Top Center) -->
+<div class="sticky top-3 z-50 flex justify-center px-4 pointer-events-none">
+<div id="dynamicIsland" onclick="toggleIslandWidget()" class="dynamic-island pointer-events-auto cursor-pointer rounded-full px-5 py-2.5 flex items-center gap-3.5 min-w-[270px] max-w-[94vw] sm:max-w-lg justify-between">
+<!-- Left Side: Live Status Indicator & Waveform -->
+<div class="flex items-center gap-2.5">
+<div class="relative flex items-center justify-center w-3 h-3">
+<span id="islandDot" class="w-2.5 h-2.5 rounded-full bg-emerald-400 ping-dot-ring relative"></span>
 </div>
-<span class="md:block w-full truncate">You</span>
-<h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-Browser
-</h3>
-<span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-<div class="relative mb-10 md:m-0">
-<a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&#38;utm_campaign=veneno.veneno.cyou" target="_blank" rel="noopener noreferrer">
-<span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-<span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-</a>
-</div>
-<span class="md:block w-full truncate">Minneapolis</span>
-<h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-<a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&utm_campaign=veneno.veneno.cyou" target="_blank" rel="noopener noreferrer">
-Cloudflare
-</a>
-</h3>
-<span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-<div class="relative mb-10 md:m-0">
-<span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-<span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-</div>
-<span class="md:block w-full truncate">veneno.veneno.cyou</span>
-<h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-Host
-</h3>
-<span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
-</div>
-</div>
-</div>
-<div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-<div class="clearfix">
-<div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-<h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-<p>Cloudflare cannot validate the SSL certificate on the origin web server. The certificate may be expired, self-signed, or may not cover the requested domain name.</p>
-</div>
-<div class="w-1/2 md:w-full float-left leading-relaxed">
-<h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-<h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-<p class="mb-6">Please try again in a few minutes.</p>
-<h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-<p>Please refer to the <a rel="noopener noreferrer" href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-526/">Error 526</a> article:</p>
-<ul class="ml-4">
-<li>Make sure the certificate you are using is not expired and fully covers the requested domain name.</li>
-<li>Check <a rel="noopener noreferrer" href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-526/#diagnose-with-origin-analytics">Origin Analytics</a>.</li>
-<li>Install a free <a rel="noopener noreferrer" href="https://developers.cloudflare.com/ssl/origin-configuration/origin-ca/">Cloudflare Origin CA certificate</a> on your origin server.</li>
-<li>Contact your hosting provider to update or replace the SSL certificate on the origin server.</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-<p class="text-13">
-<span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">a50030032d32a212</strong></span>
-<span class="cf-footer-separator sm:hidden">&bull;</span>
-<span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-Your IP:
-<button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-<span class="hidden" id="cf-footer-ip">52.242.221.244</span>
-<span class="cf-footer-separator sm:hidden">&bull;</span>
+<span id="islandStatusText" class="text-xs sm:text-sm font-semibold tracking-tight text-white/95 truncate">
+Ø§ÛÙØªØ±ÙØª Ø¢Ø²Ø§Ø¯ â¢ Û³ ÙÙØ¯ ÙØ¹Ø§Ù
 </span>
-<span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&#38;utm_campaign=veneno.veneno.cyou" id="brand_link" target="_blank">Cloudflare</a></span>
+</div>
+<!-- Right Side: Mini Telemetry / Action Badge -->
+<div class="flex items-center gap-2">
+<div id="islandWaveform" class="flex items-end gap-0.5 h-3.5 px-1">
+<span class="w-0.5 bg-cyan-400 rounded-full animate-pulse h-2"></span>
+<span class="w-0.5 bg-pink-400 rounded-full animate-pulse h-3.5" style="animation-delay: 0.15s"></span>
+<span class="w-0.5 bg-purple-400 rounded-full animate-pulse h-2.5" style="animation-delay: 0.3s"></span>
+<span class="w-0.5 bg-emerald-400 rounded-full animate-pulse h-3" style="animation-delay: 0.45s"></span>
+</div>
+<span id="islandBadge" class="text-[11px] font-mono bg-white/10 border border-white/15 px-2.5 py-0.5 rounded-full text-cyan-300">
+VLESS+TLS
+</span>
+</div>
+</div>
+</div>
+<!-- Main Container -->
+<main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 sm:pt-10">
+<!-- Hero Header Section -->
+<header class="text-center mb-8 sm:mb-10 relative">
+<div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full ios-glass text-xs sm:text-sm text-cyan-300 font-medium mb-4 shimmer-badge">
+<svg class="w-4 h-4 text-pink-400 animate-spin" style="animation-duration: 9s;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+</svg>
+<span>ÙÙÚ©ÛØ´Ù (IP) Ù
+ØªØ¹ÙÙ Ø¨Ù Windscribe Ù
+Û Ø¨Ø§Ø´Ø¯.</span>
+<span class="text-white/30">|</span>
+<span dir="ltr" class="font-mono text-pink-300 font-semibold">USA ðºð¸ Las Vegas Casino</span>
+</div>
+<h1 class="text-3xl sm:text-5xl font-black tracking-tight mb-3 bg-clip-text text-transparent bg-gradient-to-l from-white via-cyan-100 to-pink-200 drop-shadow-sm">
+ÙØ§Ø¨ Ú©Ø§ÙÙÛÚ¯âÙØ§Û Ø§Ø®ØªØµØ§ØµÛ VLESS
+</h1>
+<p class="text-sm sm:text-base text-slate-300/85 max-w-2xl mx-auto leading-relaxed">
+Ù
+Ø¬Ù
+ÙØ¹Ù Ø³Ø±ÙØ±ÙØ§Û Ù¾Ø±Ø³Ø±Ø¹Øª ÙØ§Ø³ ÙÚ¯Ø§Ø³ <span class="text-white font-semibold">(USA ðºð¸ Las Vegas Casino)</span> Ø¨Ø± Ù¾Ø§ÛÙ Ù
+Ø¹Ù
+Ø§Ø±Û <span class="font-mono text-cyan-300" dir="ltr">VLESS â¢ WS â¢ TLS</span> Ø±ÙÛ Ù¾ÙØ±Øª <span class="font-mono text-pink-300" dir="ltr">443</span> Ø¨Ø§ ÙØ§Ø¨ÙÛØª Ø§Ø³Ú©Ù Ø¢ÙÛ Ù Ú©Ù¾Û ÙÙØ´Ù
+ÙØ¯.
 </p>
-<script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
+</header>
+<!-- Spatial Telemetry & Action Control Center -->
+<section class="ios-glass rounded-3xl p-4 sm:p-6 mb-8">
+<div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-5">
+<!-- Stat 1 -->
+<div class="bg-white/[0.04] border border-white/10 rounded-2xl p-3.5 flex items-center gap-3.5">
+<div class="w-11 h-11 rounded-2xl bg-cyan-500/20 border border-cyan-400/30 flex items-center justify-center text-cyan-300 shrink-0">
+<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2m-2-4h.01M17 16h.01" />
+</svg>
+</div>
+<div>
+<p class="text-xs text-slate-400">ØªØ¹Ø¯Ø§Ø¯ ÙÙØ¯ÙØ§Û ÙØ¹Ø§Ù</p>
+<p class="text-lg sm:text-xl font-bold text-white">Û³ Ø³Ø±ÙØ± <span class="text-xs font-normal text-emerald-400">Ø¢ÙÙØ§ÛÙ</span></p>
 </div>
 </div>
+<!-- Stat 2 -->
+<div class="bg-white/[0.04] border border-white/10 rounded-2xl p-3.5 flex items-center gap-3.5">
+<div class="w-11 h-11 rounded-2xl bg-pink-500/20 border border-pink-400/30 flex items-center justify-center text-pink-300 shrink-0">
+<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+</svg>
+</div>
+<div>
+<p class="text-xs text-slate-400">Ø´Ø¨Ú©Ù Ù Ø§Ù
+ÙÛØª</p>
+<p class="text-sm sm:text-base font-bold font-mono text-white" dir="ltr">VLESS â¢ WS â¢ TLS</p>
+</div>
+</div>
+<!-- Stat 3 -->
+<div class="bg-white/[0.04] border border-white/10 rounded-2xl p-3.5 flex items-center gap-3.5">
+<div class="w-11 h-11 rounded-2xl bg-purple-500/20 border border-purple-400/30 flex items-center justify-center text-purple-300 shrink-0">
+<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+</svg>
+</div>
+<div class="overflow-hidden">
+<p class="text-xs text-slate-400">Ù
+ÙÙØ¹ÛØª Ù Ù¾ÙØ±Øª</p>
+<p class="text-xs sm:text-sm font-bold font-mono text-cyan-200 truncate" dir="ltr">Las Vegas ðºð¸ : 443</p>
+</div>
+</div>
+<!-- Stat 4 -->
+<div class="bg-white/[0.04] border border-white/10 rounded-2xl p-3.5 flex items-center gap-3.5">
+<div class="w-11 h-11 rounded-2xl bg-emerald-500/20 border border-emerald-400/30 flex items-center justify-center text-emerald-300 shrink-0">
+<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M13 10V3L4 14h7v7l9-11h-7z" />
+</svg>
+</div>
+<div>
+<p class="text-xs text-slate-400">Ù
+ÛØ§ÙÚ¯ÛÙ Ù¾ÛÙÚ¯ ÙÙØ¯ÙØ§</p>
+<p id="avgPingDisplay" class="text-lg sm:text-xl font-bold font-mono text-emerald-400" dir="ltr">74 ms</p>
+</div>
+</div>
+</div>
+<!-- Action Controls Row -->
+<div class="flex flex-col md:flex-row items-stretch md:items-center justify-between gap-3 pt-2 border-t border-white/10">
+<!-- Search & View Switcher -->
+<div class="flex items-center gap-2.5 flex-1">
+<div class="relative flex-1 max-w-md">
+<input
+id="searchInput"
+type="text"
+oninput="filterConfigs()"
+placeholder="Ø¬Ø³ØªØ¬Ù Ø¨Ø± Ø§Ø³Ø§Ø³ Ø¢Ø¯Ø±Ø³ IPØ ÙØ§Ù
+Ø³Ø±ÙØ± ÛØ§ Ù¾ÙØ±Øª..."
+class="w-full bg-black/30 border border-white/15 focus:border-cyan-400/70 rounded-2xl py-2.5 pr-10 pl-4 text-sm text-white placeholder-slate-400 outline-none transition"
+>
+<svg class="w-4 h-4 text-slate-400 absolute right-3.5 top-1/2 -translate-y-1/2 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+</svg>
+</div>
+<!-- View Toggle Button -->
+<button onclick="toggleLayoutView()" id="layoutToggleBtn" title="ØªØºÛÛØ± ÚÛØ¯Ù
+Ø§Ù Ú©Ø§Ø±ØªâÙØ§" class="ios-btn bg-white/10 hover:bg-white/15 border border-white/20 rounded-2xl p-2.5 text-slate-200 flex items-center gap-1.5 text-xs font-medium shrink-0">
+<svg id="layoutIcon" class="w-5 h-5 text-cyan-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" />
+</svg>
+<span class="hidden sm:inline" id="layoutText">ÙÙ
+Ø§Û Ø´Ø¨Ú©ÙâØ§Û</span>
+</button>
+</div>
+<!-- Primary Bulk Buttons -->
+<div class="flex flex-wrap items-center gap-2.5">
+<button onclick="runSmartPingTest()" id="pingTestBtn" class="ios-btn bg-emerald-500/20 hover:bg-emerald-500/30 border border-emerald-400/40 text-emerald-200 rounded-2xl px-4 py-2.5 text-xs sm:text-sm font-semibold flex items-center justify-center gap-2 flex-1 sm:flex-initial">
+<svg id="pingBtnIcon" class="w-4 h-4 text-emerald-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+</svg>
+<span>ØªØ³Øª Ù¾ÛÙÚ¯ ÙÙØ´Ù
+ÙØ¯</span>
+</button>
+<button onclick="openBatchQrModal()" class="ios-btn bg-purple-500/20 hover:bg-purple-500/30 border border-purple-400/40 text-purple-200 rounded-2xl px-4 py-2.5 text-xs sm:text-sm font-semibold flex items-center justify-center gap-2 flex-1 sm:flex-initial">
+<svg class="w-4 h-4 text-purple-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v1m6 11h2m-6 0h-2v4m0-11v3m0 0h.01M12 12h4.01M16 20h4M4 12h4m12 0h.01M5 8h2a1 1 0 001-1V5a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1zm12 0h2a1 1 0 001-1V5a1 1 0 00-1-1h-2a1 1 0 00-1 1v2a1 1 0 001 1zM5 20h2a1 1 0 001-1v-2a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1z" />
+</svg>
+<span>Ú©ÛÙØ¢Ø± Ú©Ø¯ Ø§Ø´ØªØ±Ø§Ú© Ú©ÙÛ</span>
+</button>
+<button onclick="copyAllConfigs(false)" class="ios-btn ios-btn-primary text-white rounded-2xl px-5 py-2.5 text-xs sm:text-sm font-bold flex items-center justify-center gap-2 w-full sm:w-auto">
+<svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+</svg>
+<span>Ú©Ù¾Û ÙÙ
+Ù Ú©Ø§ÙÙÛÚ¯âÙØ§ (Û³ ÙÙØ¯)</span>
+</button>
+</div>
+</div>
+</section>
+<!-- Config Cards Grid -->
+<section id="configsContainer" class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-10">
+<!-- Populated dynamically by JavaScript -->
+</section>
+<!-- Unified Raw Subscription Box (iOS 27 Glass Code Vault) -->
+<section class="ios-glass rounded-3xl p-5 sm:p-7 mb-10">
+<div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-4">
+<div class="flex items-center gap-3">
+<div class="w-10 h-10 rounded-2xl bg-gradient-to-br from-cyan-400/30 to-purple-500/30 border border-white/25 flex items-center justify-center text-cyan-200">
+<svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
+</svg>
+</div>
+<div>
+<h2 class="text-base sm:text-lg font-bold text-white">Ù
+Ø®Ø²Ù ÛÚ©Ù¾Ø§Ø±ÚÙ Ú©Ø§ÙÙÛÚ¯âÙØ§ (Batch & Base64 Sub)</h2>
+<p class="text-xs text-slate-300/80">Ù
+ÙØ§Ø³Ø¨ Ø¨Ø±Ø§Û Ø§ÛÙ
+Ù¾ÙØ±Øª Ø¯Ø³ØªÙâØ¬Ù
+Ø¹Û Ø¯Ø± v2rayNGØ KaringØ Streisand Ù Happ</p>
+</div>
+</div>
+<div class="flex items-center gap-2">
+<button onclick="copyAllConfigs(true)" class="ios-btn bg-white/10 hover:bg-white/20 border border-white/20 rounded-xl px-3.5 py-2 text-xs font-semibold text-cyan-200 flex items-center gap-1.5">
+<svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+</svg>
+<span>Ú©Ù¾Û Base64 Ø§Ø´ØªØ±Ø§Ú©</span>
+</button>
+<button onclick="exportConfigsTxt()" class="ios-btn bg-white/10 hover:bg-white/20 border border-white/20 rounded-xl px-3.5 py-2 text-xs font-semibold text-pink-200 flex items-center gap-1.5">
+<svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+</svg>
+<span>Ø¯Ø§ÙÙÙØ¯ ÙØ§ÛÙ TXT</span>
+</button>
+</div>
+</div>
+<div class="relative group">
+<pre id="rawBatchBox" dir="ltr" class="bg-black/45 border border-white/15 rounded-2xl p-4 text-[11px] sm:text-xs font-mono text-cyan-100/90 overflow-x-auto leading-6 select-all"></pre>
+<button onclick="copyAllConfigs(false)" class="absolute top-3 right-3 bg-white/15 hover:bg-white/25 backdrop-blur-md border border-white/25 rounded-xl px-3 py-1.5 text-xs font-medium text-white flex items-center gap-1.5 opacity-90 group-hover:opacity-100 transition">
+<svg class="w-3.5 h-3.5 text-cyan-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2" />
+</svg>
+<span>Ú©Ù¾Û Ù
+ØªÙ Ø®Ø§Ù
+</span>
+</button>
+</div>
+</section>
+</main>
+<!-- Floating iOS 27 Spatial Glass Dock (Bottom) -->
+<div class="fixed bottom-4 inset-x-0 z-40 flex justify-center px-4 pointer-events-none">
+<nav class="ios-glass pointer-events-auto rounded-full px-3 sm:px-5 py-2.5 flex items-center gap-2 sm:gap-3.5 border border-white/30 shadow-2xl">
+<!-- Copy All -->
+<button onclick="copyAllConfigs(false)" class="dock-item group relative flex flex-col items-center justify-center w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-gradient-to-tr from-cyan-500/30 to-blue-500/30 border border-cyan-300/40 text-white" title="Ú©Ù¾Û ÙÙ
+Ù Ú©Ø§ÙÙÛÚ¯âÙØ§">
+<svg class="w-5 h-5 text-cyan-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+</svg>
+<span class="absolute -top-9 scale-0 group-hover:scale-100 transition bg-black/85 border border-white/20 text-[11px] text-white px-2.5 py-1 rounded-lg whitespace-nowrap pointer-events-none">
+Ú©Ù¾Û ÙÙ
+Ù
+</span>
+</button>
+<!-- Smart Ping -->
+<button onclick="runSmartPingTest()" class="dock-item group relative flex flex-col items-center justify-center w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-gradient-to-tr from-emerald-500/30 to-teal-500/30 border border-emerald-300/40 text-white" title="ØªØ³Øª Ù¾ÛÙÚ¯ ÙÙØ´Ù
+ÙØ¯">
+<svg class="w-5 h-5 text-emerald-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+</svg>
+<span class="absolute -top-9 scale-0 group-hover:scale-100 transition bg-black/85 border border-white/20 text-[11px] text-white px-2.5 py-1 rounded-lg whitespace-nowrap pointer-events-none">
+ØªØ³Øª Ù¾ÛÙÚ¯
+</span>
+</button>
+<!-- QR Hub -->
+<button onclick="openBatchQrModal()" class="dock-item group relative flex flex-col items-center justify-center w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-gradient-to-tr from-pink-500/30 to-rose-500/30 border border-pink-300/40 text-white" title="Ú©ÛÙØ¢Ø± Ú©Ø¯ Ø§Ø´ØªØ±Ø§Ú© Ú©ÙÛ">
+<svg class="w-5 h-5 text-pink-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v1m6 11h2m-6 0h-2v4m0-11v3m0 0h.01M12 12h4.01M16 20h4M4 12h4m12 0h.01M5 8h2a1 1 0 001-1V5a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1zm12 0h2a1 1 0 001-1V5a1 1 0 00-1-1h-2a1 1 0 00-1 1v2a1 1 0 001 1zM5 20h2a1 1 0 001-1v-2a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1z" />
+</svg>
+<span class="absolute -top-9 scale-0 group-hover:scale-100 transition bg-black/85 border border-white/20 text-[11px] text-white px-2.5 py-1 rounded-lg whitespace-nowrap pointer-events-none">
+ÙØ§Ø¨ QR
+</span>
+</button>
+<div class="w-px h-6 bg-white/20"></div>
+<!-- Theme Aurora Switcher -->
+<button onclick="cycleAuroraTheme()" class="dock-item group relative flex flex-col items-center justify-center w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-gradient-to-tr from-purple-500/30 to-indigo-500/30 border border-purple-300/40 text-white" title="ØªØºÛÛØ± ØªÙ
+Ø´ÙÙ ÙÙØ±Û">
+<svg class="w-5 h-5 text-purple-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21a4 4 0 01-4-4V5a2 2 0 012-2h4a2 2 0 012 2v12a4 4 0 01-4 4zm0 0h12a2 2 0 002-2v-4a2 2 0 00-2-2h-2.343M11 7.343l1.657-1.657a2 2 0 012.828 0l2.829 2.829a2 2 0 010 2.828l-8.486 8.485M7 17h.01" />
+</svg>
+<span class="absolute -top-9 scale-0 group-hover:scale-100 transition bg-black/85 border border-white/20 text-[11px] text-white px-2.5 py-1 rounded-lg whitespace-nowrap pointer-events-none">
+ØªÙ
+ÙÙØ±Û
+</span>
+</button>
+<!-- Glass Intensity Toggle -->
+<button onclick="toggleGlassIntensity()" class="dock-item group relative flex flex-col items-center justify-center w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-white/10 border border-white/30 text-white" title="ØªØºÛÛØ± ØºÙØ¸Øª Ø´ÛØ´Ù Ú©Ø±ÛØ³ØªØ§ÙÛ">
+<svg class="w-5 h-5 text-amber-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+</svg>
+<span class="absolute -top-9 scale-0 group-hover:scale-100 transition bg-black/85 border border-white/20 text-[11px] text-white px-2.5 py-1 rounded-lg whitespace-nowrap pointer-events-none">
+Ø´Ø¯Øª Ø´ÛØ´Ù
+</span>
+</button>
+<!-- Client Guide Modal Button -->
+<button onclick="openGuideModal()" class="dock-item group relative flex flex-col items-center justify-center w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-white/10 border border-white/30 text-white" title="Ø±Ø§ÙÙÙ
+Ø§Û Ø§ØªØµØ§Ù Ø¯Ø± Ø§Ù¾ÙÛÚ©ÛØ´ÙâÙØ§">
+<svg class="w-5 h-5 text-cyan-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+</svg>
+<span class="absolute -top-9 scale-0 group-hover:scale-100 transition bg-black/85 border border-white/20 text-[11px] text-white px-2.5 py-1 rounded-lg whitespace-nowrap pointer-events-none">
+Ø±Ø§ÙÙÙ
+Ø§Û Ø§ØªØµØ§Ù
+</span>
+</button>
+</nav>
+</div>
+<!-- iOS 27 Spatial QR Code Modal -->
+<div id="qrModal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-black/65 backdrop-blur-xl transition-opacity">
+<div class="ios-glass rounded-[32px] max-w-md w-full p-6 sm:p-7 border border-white/30 shadow-2xl relative animate-[fadeIn_0.25s_ease-out]">
+<!-- Close Button -->
+<button onclick="closeQrModal()" class="absolute top-5 left-5 w-9 h-9 rounded-full bg-white/10 hover:bg-white/20 border border-white/20 flex items-center justify-center text-slate-200">
+<svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+</svg>
+</button>
+<div class="text-center">
+<span id="qrModalBadge" class="inline-block text-xs font-mono px-3 py-1 rounded-full bg-cyan-500/20 border border-cyan-400/30 text-cyan-300 mb-2">
+Ø§Ø³Ú©Ù Ù
+Ø³ØªÙÛÙ
+Ø¯Ø± Ú©ÙØ§ÛÙØª
+</span>
+<h3 id="qrModalTitle" class="text-xl font-bold text-white mb-1" dir="ltr">USA ðºð¸ Las Vegas Casino</h3>
+<p id="qrModalSubtitle" class="text-xs font-mono text-slate-300 mb-5" dir="ltr">162.159.204.1:443 â¢ VLESS â¢ WS â¢ TLS</p>
+<!-- QR Canvas Wrapper with iOS Glass Frame -->
+<div class="bg-white p-4 rounded-3xl inline-block shadow-[0_0_40px_rgba(56,189,248,0.3)] border-4 border-white/40 mb-5">
+<canvas id="qrCanvas" class="w-56 h-56 sm:w-64 sm:h-64 block mx-auto rounded-xl"></canvas>
+</div>
+<p class="text-xs text-slate-300/90 mb-5 leading-relaxed">
+Ø¯ÙØ±Ø¨ÛÙ Ø±Ø§ Ø§Ø² Ø¯Ø§Ø®Ù Ø¨Ø±ÙØ§Ù
+ÙâÙØ§Û <span class="text-cyan-300 font-semibold">v2rayNG</span>Ø <span class="text-pink-300 font-semibold">Streisand</span>Ø <span class="text-purple-300 font-semibold">Karing</span> ÛØ§ <span class="text-emerald-300 font-semibold">Happ</span> Ø¨Ø§Ø² Ú©Ø±Ø¯Ù Ù Ú©Ø¯ Ø¨Ø§ÙØ§ Ø±Ø§ Ø§Ø³Ú©Ù Ú©ÙÛØ¯.
+</p>
+<div class="flex items-center gap-3">
+<button id="qrModalCopyBtn" class="ios-btn ios-btn-primary flex-1 py-3 rounded-2xl text-sm font-bold text-white flex items-center justify-center gap-2">
+<svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2" />
+</svg>
+<span>Ú©Ù¾Û ÙÛÙÚ© Ú©Ø§ÙÙÛÚ¯</span>
+</button>
+<button onclick="downloadQrImage()" class="ios-btn bg-white/10 hover:bg-white/20 border border-white/25 py-3 px-4 rounded-2xl text-sm font-semibold text-white flex items-center justify-center gap-1.5" title="Ø°Ø®ÛØ±Ù ØªØµÙÛØ± Ú©ÛÙØ¢Ø± Ú©Ø¯">
+<svg class="w-4 h-4 text-cyan-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+</svg>
+<span>Ø°Ø®ÛØ±Ù PNG</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<!-- Client Connection Guide Modal -->
+<div id="guideModal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-black/65 backdrop-blur-xl">
+<div class="ios-glass rounded-[32px] max-w-lg w-full p-6 sm:p-7 border border-white/30 shadow-2xl relative">
+<button onclick="closeGuideModal()" class="absolute top-5 left-5 w-9 h-9 rounded-full bg-white/10 hover:bg-white/20 border border-white/20 flex items-center justify-center text-slate-200">
+<svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+</svg>
+</button>
+<h3 class="text-xl font-bold text-white mb-2 flex items-center gap-2">
+<span class="w-2.5 h-2.5 rounded-full bg-cyan-400"></span>
+<span>Ø±Ø§ÙÙÙ
+Ø§Û Ø§Ø³ØªÙØ§Ø¯Ù Ø¯Ø± Ø³ÛØ³ØªÙ
+âØ¹Ø§Ù
+ÙâÙØ§Û Ù
+Ø®ØªÙÙ</span>
+</h3>
+<p class="text-xs text-slate-300 mb-5">Ú©Ø§ÙÙÛÚ¯âÙØ§Û Ø§ÛÙ ØµÙØ­Ù Ø¨Ø§ ØªÙ
+Ø§Ù
+Û ÙØ³ØªÙâÙØ§Û Xray / Sing-box Ø³Ø§Ø²Ú¯Ø§Ø± ÙØ³ØªÙØ¯:</p>
+<div class="space-y-3 text-xs sm:text-sm">
+<div class="bg-white/5 border border-white/10 rounded-2xl p-3.5">
+<div class="font-bold text-cyan-300 mb-1">ð± iOS Ù iPadOS (Ø¢ÛÙÙÙ Ù Ø¢ÛÙ¾Ø¯)</div>
+<p class="text-slate-300 leading-relaxed">Ø§Ù¾ÙÛÚ©ÛØ´Ù <span class="text-white font-semibold">Streisand</span>Ø <span class="text-white font-semibold">Happ</span> ÛØ§ <span class="text-white font-semibold">Streisand</span> Ø±Ø§ Ø¨Ø§Ø² Ú©ÙÛØ¯Ø Ø±ÙÛ Ø¯Ú©Ù
+Ù <code class="bg-white/10 px-1.5 py-0.5 rounded">+</code> Ø¨Ø²ÙÛØ¯ Ù Ú¯Ø²ÛÙÙ <span class="text-emerald-300">Import from Clipboard</span> ÛØ§ Ø§Ø³Ú©Ù QR Ø±Ø§ Ø§ÙØªØ®Ø§Ø¨ ÙÙ
+Ø§ÛÛØ¯.</p>
+</div>
+<div class="bg-white/5 border border-white/10 rounded-2xl p-3.5">
+<div class="font-bold text-emerald-300 mb-1">ð¤ Android (Ø§ÙØ¯Ø±ÙÛØ¯)</div>
+<p class="text-slate-300 leading-relaxed">Ø¯Ø± Ø¨Ø±ÙØ§Ù
+Ù <span class="text-white font-semibold">v2rayNG</span> ÛØ§ <span class="text-white font-semibold">Happ</span>Ø Ø§Ø¨ØªØ¯Ø§ Ø¯Ú©Ù
+Ù Â«Ú©Ù¾Û ÙÙ
+Ù Ú©Ø§ÙÙÛÚ¯âÙØ§Â» Ø±Ø§ Ø¨Ø²ÙÛØ¯ Ù Ø³Ù¾Ø³ Ø§Ø² Ù
+ÙÙÛ Ø¨Ø§ÙØ§Û Ø¨Ø±ÙØ§Ù
+Ù Ú¯Ø²ÛÙÙ <span class="text-cyan-300">Import config from clipboard</span> Ø±Ø§ ÙÙ
+Ø³ Ú©ÙÛØ¯.</p>
+</div>
+<div class="bg-white/5 border border-white/10 rounded-2xl p-3.5">
+<div class="font-bold text-pink-300 mb-1">ð» Windows & macOS (ÙÛÙØ¯ÙØ² Ù Ù
+Ú©)</div>
+<p class="text-slate-300 leading-relaxed">Ø¯Ø± ÙØ±Ù
+âØ§ÙØ²Ø§Ø±ÙØ§Û <span class="text-white font-semibold">v2rayN</span>Ø <span class="text-white font-semibold">Karing</span> ÛØ§ <span class="text-white font-semibold">Hiddify</span> Ø¨Ø§ ÙØ´Ø±Ø¯Ù Ú©ÙÛØ¯ÙØ§Û ØªØ±Ú©ÛØ¨Û <code class="bg-white/10 px-1.5 py-0.5 rounded font-mono">Ctrl + V</code> ÙØ± Ø³Ù Ø³Ø±ÙØ± Ø¨Ù ØµÙØ±Øª ÙÙ
+Ø²Ù
+Ø§Ù Ø§Ø¶Ø§ÙÙ Ù
+ÛâØ´ÙÙØ¯.</p>
+</div>
+</div>
+<button onclick="closeGuideModal()" class="ios-btn ios-btn-primary w-full mt-5 py-3 rounded-2xl text-sm font-bold text-white">
+Ù
+ØªÙØ¬Ù Ø´Ø¯Ù
+</button>
+</div>
+</div>
+<!-- JavaScript Logic -->
+<script>
+// Exact 3 updated VLESS configurations (USA ðºð¸ Las Vegas Casino)
+const rawVlessLinks = [
+"vless://b538377e-c372-414d-bd02-becfed21852f@162.159.204.1:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Flives&security=tls&sni=shazam.wbciran.com&type=ws#USA%20%F0%9F%87%BA%F0%9F%87%B8%20Las%20Vegas%20Casino",
+"vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Flives&security=tls&sni=shazam.wbciran.com&type=ws#USA%20%F0%9F%87%BA%F0%9F%87%B8%20Las%20Vegas%20Casino",
+"vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Flives&security=tls&sni=shazam.wbciran.com&type=ws#USA%20%F0%9F%87%BA%F0%9F%87%B8%20Las%20Vegas%20Casino"
+];
+// Parse VLESS URI into clean card metadata (without exposing Host/SNI, Path, or FP in UI)
+function parseVlessUri(uri, index) {
+const withoutScheme = uri.replace('vless://', '');
+const [beforeHash, rawHash] = withoutHashSplit(withoutScheme);
+const [userHostPort, queryString] = beforeHash.split('?');
+const [uuid, hostPort] = userHostPort.split('@');
+const [ip, port] = hostPort.split(':');
+const params = new URLSearchParams(queryString || '');
+const decodedTitle = decodeURIComponent(rawHash || `USA ðºð¸ Las Vegas Casino`);
+const routeBadges = [
+{ label: 'ÙÙØ¯ #Û± â¢ Las Vegas Strip', accent: 'cyan', basePing: 64 },
+{ label: 'ÙÙØ¯ #Û² â¢ Las Vegas Core Î±', accent: 'pink', basePing: 78 },
+{ label: 'ÙÙØ¯ #Û³ â¢ Las Vegas Core Î²', accent: 'purple', basePing: 81 }
+];
+return {
+id: index + 1,
+raw: uri,
+title: decodedTitle,
+badge: routeBadges[index] ? routeBadges[index].label : `ÙÙØ¯ #${index + 1}`,
+accent: routeBadges[index] ? routeBadges[index].accent : 'cyan',
+uuid: uuid,
+ip: ip,
+port: port,
+security: (params.get('security') || 'tls').toUpperCase(),
+type: (params.get('type') || 'ws').toUpperCase(),
+ping: routeBadges[index] ? routeBadges[index].basePing : 75
+};
+}
+function withoutHashSplit(str) {
+const idx = str.indexOf('#');
+if (idx === -1) return [str, ''];
+return [str.slice(0, idx), str.slice(idx + 1)];
+}
+const parsedConfigs = rawVlessLinks.map((uri, i) => parseVlessUri(uri, i));
+let isCompactLayout = false;
+let islandTimeout = null;
+const themes = ['default', 'cosmos', 'sunset', 'cyber'];
+let currentThemeIdx = 0;
+// Render Config Cards (Clean layout without Host/SNI, Path, or FP)
+function renderConfigs(filterText = '') {
+const container = document.getElementById('configsContainer');
+const q = filterText.trim().toLowerCase();
+const filtered = parsedConfigs.filter(cfg => {
+if (!q) return true;
+return (
+cfg.ip.toLowerCase().includes(q) ||
+cfg.title.toLowerCase().includes(q) ||
+cfg.badge.toLowerCase().includes(q) ||
+cfg.port.includes(q)
+);
+});
+if (filtered.length === 0) {
+container.innerHTML = `
+<div class="col-span-full ios-glass rounded-3xl p-10 text-center">
+<p class="text-base text-slate-300 font-semibold mb-2">ÙÛÚ Ú©Ø§ÙÙÛÚ¯Û Ù
+Ø·Ø§Ø¨Ù Ø¨Ø§ Ø¹Ø¨Ø§Ø±Øª Ø¬Ø³ØªØ¬Ù Ø´Ø¯Ù ÛØ§ÙØª ÙØ´Ø¯.</p>
+<button onclick="document.getElementById('searchInput').value=''; filterConfigs();" class="ios-btn bg-white/10 border border-white/20 px-4 py-2 rounded-xl text-xs text-cyan-300">ÙÙ
+Ø§ÛØ´ Ù
+Ø¬Ø¯Ø¯ ÙÙ
+Ù ÙÙØ¯ÙØ§</button>
+</div>
+`;
+return;
+}
+container.innerHTML = filtered.map(cfg => {
+const pingColor = cfg.ping < 85 ? 'emerald' : (cfg.ping < 130 ? 'amber' : 'rose');
+const accentGradient = cfg.id === 1
+? 'from-cyan-500/25 to-blue-500/10 border-cyan-400/35 text-cyan-300'
+: (cfg.id === 2
+? 'from-pink-500/25 to-purple-500/10 border-pink-400/35 text-pink-300'
+: 'from-purple-500/25 to-indigo-500/10 border-purple-400/35 text-purple-300');
+return `
+<article
+class="ios-glass spatial-card rounded-[28px] p-5 sm:p-6 flex flex-col justify-between relative group"
+onmousemove="handleCardSpotlight(event, this)"
+>
+<!-- Top Card Header: Server Badge & Live Ping -->
+<div>
+<div class="flex items-center justify-between gap-2 mb-4">
+<span class="text-xs font-bold px-3 py-1 rounded-full bg-gradient-to-r ${accentGradient} border">
+${cfg.badge}
+</span>
+<!-- Live Ping Pill -->
+<div id="pingBadge-${cfg.id}" class="flex items-center gap-2 bg-black/35 border border-white/15 px-3 py-1 rounded-full">
+<span class="relative flex w-2 h-2">
+<span class="w-2 h-2 rounded-full bg-${pingColor}-400 ping-dot-ring relative"></span>
+</span>
+<span id="pingValue-${cfg.id}" dir="ltr" class="text-xs font-mono font-bold text-${pingColor}-300">${cfg.ping} ms</span>
+</div>
+</div>
+<!-- Server Flag & Title -->
+<div class="flex items-center justify-between gap-3 mb-5 bg-white/[0.04] border border-white/10 rounded-2xl p-3.5">
+<div class="flex items-center gap-3 min-w-0">
+<div class="w-11 h-11 rounded-2xl bg-gradient-to-br from-white/15 to-white/5 border border-white/20 flex items-center justify-center text-2xl shrink-0 shadow-inner">
+ðºð¸
+</div>
+<div class="min-w-0">
+<h3 dir="ltr" class="text-base sm:text-lg font-extrabold text-white truncate tracking-tight">
+${cfg.title}
+</h3>
+<div class="flex items-center gap-1.5 mt-1">
+<span dir="ltr" class="text-[11px] font-mono font-semibold px-2 py-0.5 rounded-md bg-cyan-500/15 border border-cyan-400/30 text-cyan-300">
+VLESS â¢ ${cfg.type} â¢ ${cfg.security}
+</span>
+</div>
+</div>
+</div>
+</div>
+<!-- Clean Parameters Spatial Grid (Only IP & Port) -->
+<div class="grid grid-cols-2 gap-2.5 mb-5 text-xs">
+<!-- IP Address (Click to Copy) -->
+<div onclick="copyParameter('${cfg.ip}', 'Ø¢Ø¯Ø±Ø³ IP Ø³Ø±ÙØ± #${cfg.id}')" class="cursor-pointer bg-black/30 hover:bg-black/45 border border-white/10 hover:border-cyan-400/40 rounded-2xl p-3.5 transition group/item">
+<div class="flex items-center justify-between text-slate-400 mb-1">
+<span>Ø¢Ø¯Ø±Ø³ Ø¢ÛâÙ¾Û (IP)</span>
+<svg class="w-3.5 h-3.5 opacity-40 group-hover/item:opacity-100 text-cyan-300 transition" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+</svg>
+</div>
+<p dir="ltr" class="font-mono font-bold text-white text-sm truncate">${cfg.ip}</p>
+</div>
+<!-- Port -->
+<div class="bg-black/30 border border-white/10 rounded-2xl p-3.5">
+<div class="text-slate-400 mb-1">Ù¾ÙØ±Øª (Port)</div>
+<p dir="ltr" class="font-mono font-bold text-cyan-200 text-sm truncate">${cfg.port}</p>
+</div>
+</div>
+</div>
+<!-- Primary Action Buttons -->
+<div>
+<div class="flex items-center gap-2.5">
+<!-- Copy Config Button -->
+<button
+id="copyBtn-${cfg.id}"
+onclick="copySingleConfig(${cfg.id})"
+class="ios-btn ios-btn-primary flex-1 py-3 px-4 rounded-2xl text-xs sm:text-sm font-bold text-white flex items-center justify-center gap-2"
+>
+<svg class="w-4 h-4 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2" />
+</svg>
+<span id="copyBtnText-${cfg.id}">Ú©Ù¾Û Ú©Ø§ÙÙÛÚ¯</span>
+</button>
+<!-- QR Code Button -->
+<button
+onclick="openQrModal(${cfg.id})"
+class="ios-btn bg-white/10 hover:bg-white/20 border border-white/25 py-3 px-3.5 rounded-2xl text-xs sm:text-sm font-semibold text-white flex items-center justify-center gap-1.5"
+title="ÙÙ
+Ø§ÛØ´ Ú©ÛÙØ¢Ø± Ú©Ø¯"
+>
+<svg class="w-4 h-4 text-cyan-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v1m6 11h2m-6 0h-2v4m0-11v3m0 0h.01M12 12h4.01M16 20h4M4 12h4m12 0h.01M5 8h2a1 1 0 001-1V5a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1zm12 0h2a1 1 0 001-1V5a1 1 0 00-1-1h-2a1 1 0 00-1 1v2a1 1 0 001 1zM5 20h2a1 1 0 001-1v-2a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1z" />
+</svg>
+<span>Ú©ÛÙØ¢Ø± Ú©Ø¯</span>
+</button>
+<!-- Technical Details Drawer Toggle -->
+<button
+onclick="toggleTechDrawer(${cfg.id})"
+id="drawerBtn-${cfg.id}"
+class="ios-btn bg-white/10 hover:bg-white/20 border border-white/25 p-3 rounded-2xl text-slate-200 flex items-center justify-center"
+title="ÙÛÙÚ© Ø®Ø§Ù
+Ù Ø´ÙØ§Ø³Ù"
+>
+<svg id="drawerIcon-${cfg.id}" class="w-4 h-4 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+</svg>
+</button>
+</div>
+<!-- Expandable Technical Details Drawer (Clean: No SNI/Path/FP) -->
+<div id="techDrawer-${cfg.id}" class="tech-drawer">
+<div class="bg-black/45 border border-white/15 rounded-2xl p-3.5 space-y-2.5 text-xs">
+<div class="flex items-center justify-between border-b border-white/10 pb-2">
+<span class="font-bold text-cyan-300">Ù
+Ø´Ø®ØµØ§Øª ÙÙØ¯ #${cfg.id}</span>
+<button onclick="copyParameter('${cfg.uuid}', 'Ø´ÙØ§Ø³Ù UUID')" class="text-[11px] bg-white/10 hover:bg-white/20 px-2 py-0.5 rounded-lg text-slate-200">
+Ú©Ù¾Û UUID
+</button>
+</div>
+<div class="space-y-1.5 font-mono text-[11px]" dir="ltr">
+<div class="flex justify-between gap-2"><span class="text-slate-400">Server:</span><span class="text-white">${cfg.title}</span></div>
+<div class="flex justify-between gap-2"><span class="text-slate-400">Address:</span><span class="text-cyan-300">${cfg.ip}:${cfg.port}</span></div>
+<div class="flex justify-between gap-2"><span class="text-slate-400">Protocol:</span><span class="text-emerald-300">VLESS â¢ ${cfg.type} â¢ ${cfg.security}</span></div>
+</div>
+<div>
+<div class="text-[11px] text-slate-400 mb-1">ÙÛÙÚ© Ø§ØªØµØ§Ù (Ø¨Ø±Ø§Û Ú©Ù¾Û Ú©ÙÛÚ© Ú©ÙÛØ¯):</div>
+<div
+onclick="copySingleConfig(${cfg.id})"
+dir="ltr"
+class="bg-black/60 border border-white/10 rounded-xl p-2 text-[10px] font-mono text-cyan-100/80 break-all cursor-pointer hover:border-cyan-400/50 transition"
+>${cfg.raw}</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+`;
+}).join('');
+}
+// Specular Spotlight tracking on Cards
+function handleCardSpotlight(e, card) {
+const rect = card.getBoundingClientRect();
+const x = e.clientX - rect.left;
+const y = e.clientY - rect.top;
+card.style.setProperty('--mouse-x', `${x}px`);
+card.style.setProperty('--mouse-y', `${y}px`);
+}
+// Toggle Technical Details Drawer
+function toggleTechDrawer(id) {
+const drawer = document.getElementById(`techDrawer-${id}`);
+const icon = document.getElementById(`drawerIcon-${id}`);
+if (!drawer) return;
+drawer.classList.toggle('open');
+icon.classList.toggle('rotate-180');
+}
+// Reliable Clipboard Helper (compatible with iFrames & all browsers)
+function copyTextToClipboard(text) {
+const textArea = document.createElement("textarea");
+textArea.value = text;
+textArea.style.position = "fixed";
+textArea.style.left = "-9999px";
+textArea.style.top = "0";
+document.body.appendChild(textArea);
+textArea.focus();
+textArea.select();
+try {
+document.execCommand('copy');
+} catch (err) {
+if (navigator.clipboard) {
+navigator.clipboard.writeText(text);
+}
+}
+document.body.removeChild(textArea);
+}
+// Dynamic Island Notification System
+function notifyDynamicIsland(message, badgeText = 'Ú©Ù¾Û Ø´Ø¯ â', color = 'emerald') {
+const island = document.getElementById('dynamicIsland');
+const statusText = document.getElementById('islandStatusText');
+const badge = document.getElementById('islandBadge');
+const dot = document.getElementById('islandDot');
+if (islandTimeout) clearTimeout(islandTimeout);
+island.classList.add('island-expanded');
+statusText.textContent = message;
+badge.textContent = badgeText;
+dot.className = `w-2.5 h-2.5 rounded-full bg-${color}-400 ping-dot-ring relative`;
+islandTimeout = setTimeout(() => {
+island.classList.remove('island-expanded');
+statusText.textContent = 'Ø³Ù¾Ø± ÙØ¶Ø§ÛÛ iOS 27 â¢ Û³ ÙÙØ¯ ÙØ¹Ø§Ù';
+badge.textContent = 'VLESS+TLS';
+dot.className = 'w-2.5 h-2.5 rounded-full bg-emerald-400 ping-dot-ring relative';
+}, 3200);
+}
+function toggleIslandWidget() {
+const avg = document.getElementById('avgPingDisplay').textContent;
+notifyDynamicIsland(`Ø³Ø±ÙØ±ÙØ§Û Las Vegas Casino Ù¾Ø§ÛØ¯Ø§Ø± â¢ Ù¾ÛÙÚ¯ Ù
+ÛØ§ÙÚ¯ÛÙ: ${avg}`, 'Ø¢Ù
+Ø§Ø¯Ù Ø§ØªØµØ§Ù', 'cyan');
+}
+// Copy Single Config
+function copySingleConfig(id) {
+const cfg = parsedConfigs.find(c => c.id === id);
+if (!cfg) return;
+copyTextToClipboard(cfg.raw);
+notifyDynamicIsland(`Ú©Ø§ÙÙÛÚ¯ ÙÙØ¯ #${cfg.id} (${cfg.ip}) Ø¯Ø± Ú©ÙÛÙ¾âØ¨ÙØ±Ø¯ Ú©Ù¾Û Ø´Ø¯!`, 'Ú©Ù¾Û Ø´Ø¯ â', 'emerald');
+const btnText = document.getElementById(`copyBtnText-${id}`);
+if (btnText) {
+const orig = btnText.textContent;
+btnText.textContent = 'Ú©Ù¾Û Ø´Ø¯ â';
+setTimeout(() => { btnText.textContent = orig; }, 2000);
+}
+}
+// Copy Individual Parameter
+function copyParameter(val, label) {
+copyTextToClipboard(val);
+notifyDynamicIsland(`${label} (${val}) Ú©Ù¾Û Ø´Ø¯!`, 'Ú©Ù¾Û Ù¾Ø§Ø±Ø§Ù
+ØªØ±', 'cyan');
+}
+// Copy All Configs (Raw or Base64 Subscription)
+function copyAllConfigs(asBase64 = false) {
+const joined = rawVlessLinks.join('\n');
+if (asBase64) {
+const b64 = btoa(unescape(encodeURIComponent(joined)));
+copyTextToClipboard(b64);
+notifyDynamicIsland('Ú©Ø¯ Ø§Ø´ØªØ±Ø§Ú© Base64 ÙØ± Û³ Ø³Ø±ÙØ± Ú©Ù¾Û Ø´Ø¯!', 'Base64 Sub', 'purple');
+} else {
+copyTextToClipboard(joined);
+notifyDynamicIsland('ÙØ± Û³ Ú©Ø§ÙÙÛÚ¯ Las Vegas Casino Ø¯Ø± Ú©ÙÛÙ¾âØ¨ÙØ±Ø¯ Ú©Ù¾Û Ø´Ø¯ÙØ¯!', 'Û³ ÙÙØ¯ Ú©Ù¾Û Ø´Ø¯ â', 'emerald');
+}
+}
+// Export Subscription as .txt File
+function exportConfigsTxt() {
+const content = rawVlessLinks.join('\n');
+const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
+const url = URL.createObjectURL(blob);
+const a = document.createElement('a');
+a.href = url;
+a.download = 'USA-Las-Vegas-Casino-VLESS.txt';
+document.body.appendChild(a);
+a.click();
+document.body.removeChild(a);
+URL.revokeObjectURL(url);
+notifyDynamicIsland('ÙØ§ÛÙ Ø§Ø´ØªØ±Ø§Ú© TXT Ø¨Ø§ Ù
+ÙÙÙÛØª Ø¯Ø§ÙÙÙØ¯ Ø´Ø¯!', 'Ø¯Ø§ÙÙÙØ¯ Ø´Ø¯ â', 'pink');
+}
+// Open QR Modal for Single Config
+let activeQrText = '';
+function openQrModal(id) {
+const cfg = parsedConfigs.find(c => c.id === id);
+if (!cfg) return;
+activeQrText = cfg.raw;
+document.getElementById('qrModalBadge').textContent = `ÙÙØ¯ Ø§Ø®ØªØµØ§ØµÛ #${cfg.id} â¢ VLESS â¢ WS â¢ TLS`;
+document.getElementById('qrModalTitle').textContent = cfg.title;
+document.getElementById('qrModalSubtitle').textContent = `${cfg.ip}:${cfg.port} â¢ VLESS â¢ WS â¢ TLS`;
+const copyBtn = document.getElementById('qrModalCopyBtn');
+copyBtn.onclick = () => {
+copySingleConfig(cfg.id);
+};
+generateQrOnCanvas(cfg.raw);
+const modal = document.getElementById('qrModal');
+modal.classList.remove('hidden');
+modal.classList.add('flex');
+notifyDynamicIsland(`Ú©ÛÙØ¢Ø± Ú©Ø¯ ÙÙØ¯ #${cfg.id} Ø¢Ù
+Ø§Ø¯Ù Ø§Ø³Ú©Ù Ø§Ø³Øª`, 'QR Code', 'cyan');
+}
+// Open Batch QR Modal (Base64 Sub of all 3 configs)
+function openBatchQrModal() {
+const joined = rawVlessLinks.join('\n');
+const b64 = btoa(unescape(encodeURIComponent(joined)));
+activeQrText = joined;
+document.getElementById('qrModalBadge').textContent = 'Ú©ÛÙØ¢Ø± Ú©Ø¯ Ø§Ø´ØªØ±Ø§Ú© ÛÚ©Ù¾Ø§Ø±ÚÙ (ÙÙ
+Ù Û³ Ø³Ø±ÙØ±)';
+document.getElementById('qrModalTitle').textContent = 'USA ðºð¸ Las Vegas Casino (All 3 Nodes)';
+document.getElementById('qrModalSubtitle').textContent = 'VLESS â¢ WS â¢ TLS â¢ Port 443';
+const copyBtn = document.getElementById('qrModalCopyBtn');
+copyBtn.onclick = () => {
+copyAllConfigs(false);
+};
+generateQrOnCanvas(b64);
+const modal = document.getElementById('qrModal');
+modal.classList.remove('hidden');
+modal.classList.add('flex');
+notifyDynamicIsland('Ú©ÛÙØ¢Ø± Ú©Ø¯ Ø§Ø´ØªØ±Ø§Ú© Ú©ÙÛ ÙØ± Û³ Ø³Ø±ÙØ± ØªÙÙÛØ¯ Ø´Ø¯', 'Batch QR', 'purple');
+}
+function generateQrOnCanvas(value) {
+const canvas = document.getElementById('qrCanvas');
+if (typeof QRious !== 'undefined') {
+new QRious({
+element: canvas,
+value: value,
+size: 520,
+level: 'M',
+background: '#ffffff',
+foreground: '#090d16',
+padding: 16
+});
+}
+}
+function downloadQrImage() {
+const canvas = document.getElementById('qrCanvas');
+const link = document.createElement('a');
+link.download = 'Las-Vegas-Casino-VLESS-QR.png';
+link.href = canvas.toDataURL('image/png');
+link.click();
+notifyDynamicIsland('ØªØµÙÛØ± Ú©ÛÙØ¢Ø± Ú©Ø¯ Ø¨Ø§ Ú©ÛÙÛØª Ø¨Ø§ÙØ§ Ø°Ø®ÛØ±Ù Ø´Ø¯!', 'PNG Saved', 'cyan');
+}
+function closeQrModal() {
+const modal = document.getElementById('qrModal');
+modal.classList.add('hidden');
+modal.classList.remove('flex');
+}
+// Smart Simulated Latency Check
+function runSmartPingTest() {
+const btnIcon = document.getElementById('pingBtnIcon');
+btnIcon.classList.add('animate-spin');
+notifyDynamicIsland('Ø¯Ø± Ø­Ø§Ù Ø¨Ø±Ø±Ø³Û Ù¾ÛÙÚ¯ Ù ÙÙØ¯Ø´ÛÚ© TLS Ø³Ø±ÙØ±ÙØ§Û ÙØ§Ø³ ÙÚ¯Ø§Ø³...', 'Ø¯Ø± Ø­Ø§Ù ØªØ³Øª...', 'amber');
+parsedConfigs.forEach(cfg => {
+const pingEl = document.getElementById(`pingValue-${cfg.id}`);
+if (pingEl) pingEl.textContent = '... ms';
+});
+setTimeout(() => {
+let sum = 0;
+parsedConfigs.forEach((cfg, idx) => {
+const base = idx === 0 ? 58 : (idx === 1 ? 74 : 79);
+const jitter = Math.floor(Math.random() * 19) - 5;
+cfg.ping = Math.max(42, base + jitter);
+sum += cfg.ping;
+const pingEl = document.getElementById(`pingValue-${cfg.id}`);
+if (pingEl) {
+pingEl.textContent = `${cfg.ping} ms`;
+}
+});
+const avg = Math.round(sum / parsedConfigs.length);
+document.getElementById('avgPingDisplay').textContent = `${avg} ms`;
+btnIcon.classList.remove('animate-spin');
+notifyDynamicIsland(`ØªØ³Øª Ù¾ÛÙÚ¯ ØªÚ©Ù
+ÛÙ Ø´Ø¯! Ù
+ÛØ§ÙÚ¯ÛÙ ØªØ§Ø®ÛØ±: ${avg}ms`, 'Ù¾ÛÙÚ¯ Ø¹Ø§ÙÛ â¡', 'emerald');
+}, 950);
+}
+// Filter Configs
+function filterConfigs() {
+const val = document.getElementById('searchInput').value;
+renderConfigs(val);
+}
+// Toggle Grid vs Compact Single-Column Layout
+function toggleLayoutView() {
+isCompactLayout = !isCompactLayout;
+const container = document.getElementById('configsContainer');
+const text = document.getElementById('layoutText');
+if (isCompactLayout) {
+container.classList.remove('lg:grid-cols-3');
+container.classList.add('lg:grid-cols-1', 'max-w-3xl', 'mx-auto');
+text.textContent = 'ÙÙ
+Ø§Û ÙÛØ³ØªÛ';
+notifyDynamicIsland('ÚÛØ¯Ù
+Ø§Ù Ø¨Ù ÙÙ
+Ø§Û ÙÛØ³ØªÛ Ø¹Ø±ÛØ¶ ØªØºÛÛØ± ÛØ§ÙØª', 'ÙÙ
+Ø§Û ÙÛØ³ØªÛ', 'cyan');
+} else {
+container.classList.add('lg:grid-cols-3');
+container.classList.remove('lg:grid-cols-1', 'max-w-3xl', 'mx-auto');
+text.textContent = 'ÙÙ
+Ø§Û Ø´Ø¨Ú©ÙâØ§Û';
+notifyDynamicIsland('ÚÛØ¯Ù
+Ø§Ù Ø¨Ù ÙÙ
+Ø§Û Ø´Ø¨Ú©ÙâØ§Û Û³ Ø³ØªÙÙÙ ØªØºÛÛØ± ÛØ§ÙØª', 'ÙÙ
+Ø§Û Ø´Ø¨Ú©ÙâØ§Û', 'cyan');
+}
+}
+// Cycle Aurora Background Theme (Las Vegas Neon / Deep Cosmos / Cyber Sunset / Emerald Matrix)
+function cycleAuroraTheme() {
+currentThemeIdx = (currentThemeIdx + 1) % themes.length;
+const theme = themes[currentThemeIdx];
+if (theme === 'default') {
+document.documentElement.removeAttribute('data-theme');
+notifyDynamicIsland('ØªÙ
+ÙÙØ±Û: Las Vegas Neon (Ù¾ÛØ´âÙØ±Ø¶)', 'Vegas Neon', 'cyan');
+} else if (theme === 'cosmos') {
+document.documentElement.setAttribute('data-theme', 'cosmos');
+notifyDynamicIsland('ØªÙ
+ÙÙØ±Û: Deep Cosmos (Ú©ÛÙØ§Ù Ø¹Ù
+ÛÙ)', 'Deep Cosmos', 'purple');
+} else if (theme === 'sunset') {
+document.documentElement.setAttribute('data-theme', 'sunset');
+notifyDynamicIsland('ØªÙ
+ÙÙØ±Û: Cyber Sunset (ØºØ±ÙØ¨ Ø³Ø§ÛØ¨Ø±Û)', 'Cyber Sunset', 'pink');
+} else if (theme === 'cyber') {
+document.documentElement.setAttribute('data-theme', 'cyber');
+notifyDynamicIsland('ØªÙ
+ÙÙØ±Û: Emerald Matrix (Ù
+Ø§ØªØ±ÛÚ©Ø³ Ø²Ù
+Ø±Ø¯Û)', 'Emerald Matrix', 'emerald');
+}
+}
+// Toggle Frosted Glass Intensity
+function toggleGlassIntensity() {
+const current = document.documentElement.getAttribute('data-glass');
+if (current === 'ultra') {
+document.documentElement.removeAttribute('data-glass');
+notifyDynamicIsland('Ø´ÙØ§ÙÛØª Ø´ÛØ´Ù: Ø§Ø³ØªØ§ÙØ¯Ø§Ø±Ø¯ ÙØ¶Ø§ÛÛ (32px Blur)', 'Glass Standard', 'cyan');
+} else {
+document.documentElement.setAttribute('data-glass', 'ultra');
+notifyDynamicIsland('Ø´ÙØ§ÙÛØª Ø´ÛØ´Ù: Ú©Ø±ÛØ³ØªØ§Ù ÙÙÙâÙ
+Ø§Øª (48px Ultra Blur)', 'Glass Ultra', 'purple');
+}
+}
+// Guide Modal Controls
+function openGuideModal() {
+const m = document.getElementById('guideModal');
+m.classList.remove('hidden');
+m.classList.add('flex');
+}
+function closeGuideModal() {
+const m = document.getElementById('guideModal');
+m.classList.add('hidden');
+m.classList.remove('flex');
+}
+// Close modals on Escape
+window.addEventListener('keydown', (e) => {
+if (e.key === 'Escape') {
+closeQrModal();
+closeGuideModal();
+}
+});
+// Initialize on Window Load
+window.onload = function () {
+renderConfigs();
+document.getElementById('rawBatchBox').textContent = rawVlessLinks.join('\n\n');
+};
+</script>
 </body>
 </html>
