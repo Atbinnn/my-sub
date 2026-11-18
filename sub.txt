@@ -5,7 +5,7 @@ vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryp
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>V2ray | USA ðºð¸ Las Vegas Casino</title>
+<title>VLESS Hub | Windscribe</title>
 <!-- Tailwind CSS -->
 <script src="https://cdn.tailwindcss.com"></script>
 <!-- Vazirmatn & JetBrains Mono Fonts -->
@@ -337,7 +337,8 @@ animation: shimmerSlide 3.5s infinite;
 <span id="islandDot" class="w-2.5 h-2.5 rounded-full bg-emerald-400 ping-dot-ring relative"></span>
 </div>
 <span id="islandStatusText" class="text-xs sm:text-sm font-semibold tracking-tight text-white/95 truncate">
-Ø§ÛÙØªØ±ÙØª Ø¢Ø²Ø§Ø¯ â¢ Û³ ÙÙØ¯ ÙØ¹Ø§Ù
+ÙØ§Ø¨ Ú©Ø§ÙÙÛÚ¯ ÙØ§Û ÙÛÙØ¯Ø§Ø³Ú©Ø±Ø§ÛØ¨ Ù
+ÙØ§Ø³Ø¨ Ú©Ø´ÙØ± Ø§ÛØ±Ø§Ù
 </span>
 </div>
 <!-- Right Side: Mini Telemetry / Action Badge -->
@@ -362,22 +363,21 @@ VLESS+TLS
 <svg class="w-4 h-4 text-pink-400 animate-spin" style="animation-duration: 9s;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
 </svg>
-<span>ÙÙÚ©ÛØ´Ù (IP) Ù
-ØªØ¹ÙÙ Ø¨Ù Windscribe Ù
-Û Ø¨Ø§Ø´Ø¯.</span>
+<span>ÙØ§Ø¨ Ú©Ø§ÙÙÛÚ¯ ÙØ§Û ÙÛÙØ¯Ø§Ø³Ú©Ø±Ø§ÛØ¨ Ù
+ÙØ§Ø³Ø¨ Ú©Ø´ÙØ± Ø§ÛØ±Ø§Ù</span>
 <span class="text-white/30">|</span>
-<span dir="ltr" class="font-mono text-pink-300 font-semibold">USA ðºð¸ Las Vegas Casino</span>
+<span dir="ltr" class="font-mono text-pink-300 font-semibold">USA ðºð¸ & Japan ð¯ðµ</span>
 </div>
 <h1 class="text-3xl sm:text-5xl font-black tracking-tight mb-3 bg-clip-text text-transparent bg-gradient-to-l from-white via-cyan-100 to-pink-200 drop-shadow-sm">
-ÙØ§Ø¨ Ú©Ø§ÙÙÛÚ¯âÙØ§Û Ø§Ø®ØªØµØ§ØµÛ VLESS
+ÙØ§Ø¨ Ú©Ø§ÙÙÛÚ¯ ÙØ§Û ÙÛÙØ¯Ø§Ø³Ú©Ø±Ø§ÛØ¨
 </h1>
 <p class="text-sm sm:text-base text-slate-300/85 max-w-2xl mx-auto leading-relaxed">
 Ù
 Ø¬Ù
-ÙØ¹Ù Ø³Ø±ÙØ±ÙØ§Û Ù¾Ø±Ø³Ø±Ø¹Øª ÙØ§Ø³ ÙÚ¯Ø§Ø³ <span class="text-white font-semibold">(USA ðºð¸ Las Vegas Casino)</span> Ø¨Ø± Ù¾Ø§ÛÙ Ù
+ÙØ¹Ù Ø³Ø±ÙØ±ÙØ§Û Ù¾Ø±Ø³Ø±Ø¹Øª Ø¢Ù
+Ø±ÛÚ©Ø§ <span class="text-white font-semibold">(USA ðºð¸ Las Vegas Casino)</span> Ù ÚØ§Ù¾Ù <span class="text-white font-semibold">(ð¯ðµ JPTokyo Shinkansen)</span> Ø¨Ø± Ù¾Ø§ÛÙ Ù
 Ø¹Ù
-Ø§Ø±Û <span class="font-mono text-cyan-300" dir="ltr">VLESS â¢ WS â¢ TLS</span> Ø±ÙÛ Ù¾ÙØ±Øª <span class="font-mono text-pink-300" dir="ltr">443</span> Ø¨Ø§ ÙØ§Ø¨ÙÛØª Ø§Ø³Ú©Ù Ø¢ÙÛ Ù Ú©Ù¾Û ÙÙØ´Ù
-ÙØ¯.
+Ø§Ø±Û <span class="font-mono text-cyan-300" dir="ltr">VLESS â¢ WS â¢ TLS</span> Ø±ÙÛ Ù¾ÙØ±Øª <span class="font-mono text-pink-300" dir="ltr">443</span>.
 </p>
 </header>
 <!-- Spatial Telemetry & Action Control Center -->
@@ -392,7 +392,7 @@ VLESS+TLS
 </div>
 <div>
 <p class="text-xs text-slate-400">ØªØ¹Ø¯Ø§Ø¯ ÙÙØ¯ÙØ§Û ÙØ¹Ø§Ù</p>
-<p class="text-lg sm:text-xl font-bold text-white">Û³ Ø³Ø±ÙØ± <span class="text-xs font-normal text-emerald-400">Ø¢ÙÙØ§ÛÙ</span></p>
+<p class="text-lg sm:text-xl font-bold text-white">Û¶ Ø³Ø±ÙØ± <span class="text-xs font-normal text-emerald-400">Ø¢ÙÙØ§ÛÙ</span></p>
 </div>
 </div>
 <!-- Stat 2 -->
@@ -419,7 +419,7 @@ VLESS+TLS
 <div class="overflow-hidden">
 <p class="text-xs text-slate-400">Ù
 ÙÙØ¹ÛØª Ù Ù¾ÙØ±Øª</p>
-<p class="text-xs sm:text-sm font-bold font-mono text-cyan-200 truncate" dir="ltr">Las Vegas ðºð¸ : 443</p>
+<p class="text-xs sm:text-sm font-bold font-mono text-cyan-200 truncate" dir="ltr">USA ðºð¸ & JP ð¯ðµ : 443</p>
 </div>
 </div>
 <!-- Stat 4 -->
@@ -432,8 +432,33 @@ VLESS+TLS
 <div>
 <p class="text-xs text-slate-400">Ù
 ÛØ§ÙÚ¯ÛÙ Ù¾ÛÙÚ¯ ÙÙØ¯ÙØ§</p>
-<p id="avgPingDisplay" class="text-lg sm:text-xl font-bold font-mono text-emerald-400" dir="ltr">74 ms</p>
+<p id="avgPingDisplay" class="text-lg sm:text-xl font-bold font-mono text-emerald-400" dir="ltr">76 ms</p>
 </div>
+</div>
+</div>
+<!-- Country Filter Tabs (All / USA / Japan) -->
+<div class="flex flex-wrap items-center justify-between gap-3 py-3 border-t border-white/10 mb-2">
+<div class="flex items-center gap-2 bg-black/35 p-1.5 rounded-2xl border border-white/10 w-full sm:w-auto">
+<button onclick="setRegionFilter('all')" id="tab-all" class="ios-btn flex-1 sm:flex-initial px-4 py-2 rounded-xl text-xs font-bold bg-gradient-to-r from-cyan-500/40 to-blue-500/40 border border-cyan-300/40 text-white transition">
+ÙÙ
+Ù Ø³Ø±ÙØ±ÙØ§ (Û¶)
+</button>
+<button onclick="setRegionFilter('usa')" id="tab-usa" class="ios-btn flex-1 sm:flex-initial px-4 py-2 rounded-xl text-xs font-bold bg-white/5 hover:bg-white/10 border border-transparent text-slate-300 transition">
+Ø¢Ù
+Ø±ÛÚ©Ø§ ðºð¸ (Û³)
+</button>
+<button onclick="setRegionFilter('jp')" id="tab-jp" class="ios-btn flex-1 sm:flex-initial px-4 py-2 rounded-xl text-xs font-bold bg-white/5 hover:bg-white/10 border border-transparent text-slate-300 transition">
+ÚØ§Ù¾Ù ð¯ðµ (Û³)
+</button>
+</div>
+<div class="flex items-center gap-2 w-full sm:w-auto">
+<button onclick="copyRegionConfigs('usa')" class="ios-btn flex-1 sm:flex-initial bg-cyan-500/15 hover:bg-cyan-500/25 border border-cyan-400/30 text-cyan-200 rounded-xl px-3.5 py-2 text-xs font-semibold">
+Ú©Ù¾Û Û³ ÙÙØ¯ Ø¢Ù
+Ø±ÛÚ©Ø§ ðºð¸
+</button>
+<button onclick="copyRegionConfigs('jp')" class="ios-btn flex-1 sm:flex-initial bg-pink-500/15 hover:bg-pink-500/25 border border-pink-400/30 text-pink-200 rounded-xl px-3.5 py-2 text-xs font-semibold">
+Ú©Ù¾Û Û³ ÙÙØ¯ ÚØ§Ù¾Ù ð¯ðµ
+</button>
 </div>
 </div>
 <!-- Action Controls Row -->
@@ -445,8 +470,8 @@ VLESS+TLS
 id="searchInput"
 type="text"
 oninput="filterConfigs()"
-placeholder="Ø¬Ø³ØªØ¬Ù Ø¨Ø± Ø§Ø³Ø§Ø³ Ø¢Ø¯Ø±Ø³ IPØ ÙØ§Ù
-Ø³Ø±ÙØ± ÛØ§ Ù¾ÙØ±Øª..."
+placeholder="Ø¬Ø³ØªØ¬Ù Ø¨Ø± Ø§Ø³Ø§Ø³ Ø¢Ø¯Ø±Ø³ IPØ Ø¢Ù
+Ø±ÛÚ©Ø§Ø ÚØ§Ù¾Ù ÛØ§ Ù¾ÙØ±Øª..."
 class="w-full bg-black/30 border border-white/15 focus:border-cyan-400/70 rounded-2xl py-2.5 pr-10 pl-4 text-sm text-white placeholder-slate-400 outline-none transition"
 >
 <svg class="w-4 h-4 text-slate-400 absolute right-3.5 top-1/2 -translate-y-1/2 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -483,7 +508,7 @@ class="w-full bg-black/30 border border-white/15 focus:border-cyan-400/70 rounde
 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
 </svg>
 <span>Ú©Ù¾Û ÙÙ
-Ù Ú©Ø§ÙÙÛÚ¯âÙØ§ (Û³ ÙÙØ¯)</span>
+Ù Ú©Ø§ÙÙÛÚ¯âÙØ§ (Û¶ ÙÙØ¯)</span>
 </button>
 </div>
 </div>
@@ -507,7 +532,7 @@ class="w-full bg-black/30 border border-white/15 focus:border-cyan-400/70 rounde
 <p class="text-xs text-slate-300/80">Ù
 ÙØ§Ø³Ø¨ Ø¨Ø±Ø§Û Ø§ÛÙ
 Ù¾ÙØ±Øª Ø¯Ø³ØªÙâØ¬Ù
-Ø¹Û Ø¯Ø± v2rayNGØ KaringØ Streisand Ù Happ</p>
+Ø¹Û Ø¯Ø± v2rayNGØ HiddifyØ Streisand Ù V2Box</p>
 </div>
 </div>
 <div class="flex items-center gap-2">
@@ -537,6 +562,13 @@ class="w-full bg-black/30 border border-white/15 focus:border-cyan-400/70 rounde
 </button>
 </div>
 </section>
+<!-- Glassmorphic Footer -->
+<footer class="ios-glass rounded-2xl py-4 px-6 text-center mb-6 border border-white/15">
+<p class="text-sm font-medium text-slate-200 flex items-center justify-center gap-1.5">
+<span>Ø³Ø§Ø®ØªÙ Ø´Ø¯Ù Ø¨Ø§</span>
+<span class="text-rose-500 text-base inline-block animate-pulse drop-shadow-[0_0_8px_rgba(244,63,94,0.8)]">â¤</span>
+</p>
+</footer>
 </main>
 <!-- Floating iOS 27 Spatial Glass Dock (Bottom) -->
 <div class="fixed bottom-4 inset-x-0 z-40 flex justify-center px-4 pointer-events-none">
@@ -629,7 +661,7 @@ class="w-full bg-black/30 border border-white/15 focus:border-cyan-400/70 rounde
 </div>
 <p class="text-xs text-slate-300/90 mb-5 leading-relaxed">
 Ø¯ÙØ±Ø¨ÛÙ Ø±Ø§ Ø§Ø² Ø¯Ø§Ø®Ù Ø¨Ø±ÙØ§Ù
-ÙâÙØ§Û <span class="text-cyan-300 font-semibold">v2rayNG</span>Ø <span class="text-pink-300 font-semibold">Streisand</span>Ø <span class="text-purple-300 font-semibold">Karing</span> ÛØ§ <span class="text-emerald-300 font-semibold">Happ</span> Ø¨Ø§Ø² Ú©Ø±Ø¯Ù Ù Ú©Ø¯ Ø¨Ø§ÙØ§ Ø±Ø§ Ø§Ø³Ú©Ù Ú©ÙÛØ¯.
+ÙâÙØ§Û <span class="text-cyan-300 font-semibold">v2rayNG</span>Ø <span class="text-pink-300 font-semibold">Streisand</span>Ø <span class="text-purple-300 font-semibold">V2Box</span> ÛØ§ <span class="text-emerald-300 font-semibold">Hiddify</span> Ø¨Ø§Ø² Ú©Ø±Ø¯Ù Ù Ú©Ø¯ Ø¨Ø§ÙØ§ Ø±Ø§ Ø§Ø³Ú©Ù Ú©ÙÛØ¯.
 </p>
 <div class="flex items-center gap-3">
 <button id="qrModalCopyBtn" class="ios-btn ios-btn-primary flex-1 py-3 rounded-2xl text-sm font-bold text-white flex items-center justify-center gap-2">
@@ -670,14 +702,14 @@ class="w-full bg-black/30 border border-white/15 focus:border-cyan-400/70 rounde
 <div class="space-y-3 text-xs sm:text-sm">
 <div class="bg-white/5 border border-white/10 rounded-2xl p-3.5">
 <div class="font-bold text-cyan-300 mb-1">ð± iOS Ù iPadOS (Ø¢ÛÙÙÙ Ù Ø¢ÛÙ¾Ø¯)</div>
-<p class="text-slate-300 leading-relaxed">Ø§Ù¾ÙÛÚ©ÛØ´Ù <span class="text-white font-semibold">Streisand</span>Ø <span class="text-white font-semibold">Happ</span> ÛØ§ <span class="text-white font-semibold">Streisand</span> Ø±Ø§ Ø¨Ø§Ø² Ú©ÙÛØ¯Ø Ø±ÙÛ Ø¯Ú©Ù
+<p class="text-slate-300 leading-relaxed">Ø§Ù¾ÙÛÚ©ÛØ´Ù <span class="text-white font-semibold">Streisand</span>Ø <span class="text-white font-semibold">V2Box</span> ÛØ§ <span class="text-white font-semibold">FoXray</span> Ø±Ø§ Ø¨Ø§Ø² Ú©ÙÛØ¯Ø Ø±ÙÛ Ø¯Ú©Ù
 Ù <code class="bg-white/10 px-1.5 py-0.5 rounded">+</code> Ø¨Ø²ÙÛØ¯ Ù Ú¯Ø²ÛÙÙ <span class="text-emerald-300">Import from Clipboard</span> ÛØ§ Ø§Ø³Ú©Ù QR Ø±Ø§ Ø§ÙØªØ®Ø§Ø¨ ÙÙ
 Ø§ÛÛØ¯.</p>
 </div>
 <div class="bg-white/5 border border-white/10 rounded-2xl p-3.5">
 <div class="font-bold text-emerald-300 mb-1">ð¤ Android (Ø§ÙØ¯Ø±ÙÛØ¯)</div>
 <p class="text-slate-300 leading-relaxed">Ø¯Ø± Ø¨Ø±ÙØ§Ù
-Ù <span class="text-white font-semibold">v2rayNG</span> ÛØ§ <span class="text-white font-semibold">Happ</span>Ø Ø§Ø¨ØªØ¯Ø§ Ø¯Ú©Ù
+Ù <span class="text-white font-semibold">v2rayNG</span> ÛØ§ <span class="text-white font-semibold">Hiddify Next</span>Ø Ø§Ø¨ØªØ¯Ø§ Ø¯Ú©Ù
 Ù Â«Ú©Ù¾Û ÙÙ
 Ù Ú©Ø§ÙÙÛÚ¯âÙØ§Â» Ø±Ø§ Ø¨Ø²ÙÛØ¯ Ù Ø³Ù¾Ø³ Ø§Ø² Ù
 ÙÙÛ Ø¨Ø§ÙØ§Û Ø¨Ø±ÙØ§Ù
@@ -688,7 +720,7 @@ class="w-full bg-black/30 border border-white/15 focus:border-cyan-400/70 rounde
 <div class="font-bold text-pink-300 mb-1">ð» Windows & macOS (ÙÛÙØ¯ÙØ² Ù Ù
 Ú©)</div>
 <p class="text-slate-300 leading-relaxed">Ø¯Ø± ÙØ±Ù
-âØ§ÙØ²Ø§Ø±ÙØ§Û <span class="text-white font-semibold">v2rayN</span>Ø <span class="text-white font-semibold">Karing</span> ÛØ§ <span class="text-white font-semibold">Hiddify</span> Ø¨Ø§ ÙØ´Ø±Ø¯Ù Ú©ÙÛØ¯ÙØ§Û ØªØ±Ú©ÛØ¨Û <code class="bg-white/10 px-1.5 py-0.5 rounded font-mono">Ctrl + V</code> ÙØ± Ø³Ù Ø³Ø±ÙØ± Ø¨Ù ØµÙØ±Øª ÙÙ
+âØ§ÙØ²Ø§Ø±ÙØ§Û <span class="text-white font-semibold">v2rayN</span>Ø <span class="text-white font-semibold">Nekoray</span> ÛØ§ <span class="text-white font-semibold">Hiddify</span> Ø¨Ø§ ÙØ´Ø±Ø¯Ù Ú©ÙÛØ¯ÙØ§Û ØªØ±Ú©ÛØ¨Û <code class="bg-white/10 px-1.5 py-0.5 rounded font-mono">Ctrl + V</code> ÙØ± Ø³Ù Ø³Ø±ÙØ± Ø¨Ù ØµÙØ±Øª ÙÙ
 Ø²Ù
 Ø§Ù Ø§Ø¶Ø§ÙÙ Ù
 ÛâØ´ÙÙØ¯.</p>
@@ -702,11 +734,14 @@ class="w-full bg-black/30 border border-white/15 focus:border-cyan-400/70 rounde
 </div>
 <!-- JavaScript Logic -->
 <script>
-// Exact 3 updated VLESS configurations (USA ðºð¸ Las Vegas Casino)
+// Exact 6 VLESS configurations (3 USA + 3 Japan without @VPNacho)
 const rawVlessLinks = [
 "vless://b538377e-c372-414d-bd02-becfed21852f@162.159.204.1:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Flives&security=tls&sni=shazam.wbciran.com&type=ws#USA%20%F0%9F%87%BA%F0%9F%87%B8%20Las%20Vegas%20Casino",
 "vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Flives&security=tls&sni=shazam.wbciran.com&type=ws#USA%20%F0%9F%87%BA%F0%9F%87%B8%20Las%20Vegas%20Casino",
-"vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Flives&security=tls&sni=shazam.wbciran.com&type=ws#USA%20%F0%9F%87%BA%F0%9F%87%B8%20Las%20Vegas%20Casino"
+"vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Flives&security=tls&sni=shazam.wbciran.com&type=ws#USA%20%F0%9F%87%BA%F0%9F%87%B8%20Las%20Vegas%20Casino",
+"vless://b538377e-c372-414d-bd02-becfed21852f@162.159.204.1:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FjpyBT7v&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20JPTokyo%20Shinkansen",
+"vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FjpyBT7v&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20JPTokyo%20Shinkansen",
+"vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FjpyBT7v&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20JPTokyo%20Shinkansen"
 ];
 // Parse VLESS URI into clean card metadata (without exposing Host/SNI, Path, or FP in UI)
 function parseVlessUri(uri, index) {
@@ -716,24 +751,33 @@ const [userHostPort, queryString] = beforeHash.split('?');
 const [uuid, hostPort] = userHostPort.split('@');
 const [ip, port] = hostPort.split(':');
 const params = new URLSearchParams(queryString || '');
-const decodedTitle = decodeURIComponent(rawHash || `USA ðºð¸ Las Vegas Casino`);
-const routeBadges = [
-{ label: 'ÙÙØ¯ #Û± â¢ Las Vegas Strip', accent: 'cyan', basePing: 64 },
-{ label: 'ÙÙØ¯ #Û² â¢ Las Vegas Core Î±', accent: 'pink', basePing: 78 },
-{ label: 'ÙÙØ¯ #Û³ â¢ Las Vegas Core Î²', accent: 'purple', basePing: 81 }
+const decodedTitle = decodeURIComponent(rawHash || '').replace(/-?@VPNacho/gi, '').trim();
+const nodeMeta = [
+{ label: 'Ø¢Ù
+Ø±ÛÚ©Ø§ ÛÚ©', region: 'usa', flag: 'ðºð¸', accent: 'cyan', basePing: 64 },
+{ label: 'Ø¢Ù
+Ø±ÛÚ©Ø§ Ø¯Ù', region: 'usa', flag: 'ðºð¸', accent: 'pink', basePing: 76 },
+{ label: 'Ø¢Ù
+Ø±ÛÚ©Ø§ Ø³Ù', region: 'usa', flag: 'ðºð¸', accent: 'purple', basePing: 81 },
+{ label: 'ÚØ§Ù¾Ù ÛÚ©', region: 'jp', flag: 'ð¯ðµ', accent: 'cyan', basePing: 69 },
+{ label: 'ÚØ§Ù¾Ù Ø¯Ù', region: 'jp', flag: 'ð¯ðµ', accent: 'pink', basePing: 79 },
+{ label: 'ÚØ§Ù¾Ù Ø³Ù', region: 'jp', flag: 'ð¯ðµ', accent: 'purple', basePing: 85 }
 ];
+const meta = nodeMeta[index] || { label: `ÙÙØ¯ ${index + 1}`, region: 'usa', flag: 'ð', accent: 'cyan', basePing: 75 };
 return {
 id: index + 1,
 raw: uri,
 title: decodedTitle,
-badge: routeBadges[index] ? routeBadges[index].label : `ÙÙØ¯ #${index + 1}`,
-accent: routeBadges[index] ? routeBadges[index].accent : 'cyan',
+badge: meta.label,
+region: meta.region,
+flag: meta.flag,
+accent: meta.accent,
 uuid: uuid,
 ip: ip,
 port: port,
 security: (params.get('security') || 'tls').toUpperCase(),
 type: (params.get('type') || 'ws').toUpperCase(),
-ping: routeBadges[index] ? routeBadges[index].basePing : 75
+ping: meta.basePing
 };
 }
 function withoutHashSplit(str) {
@@ -743,14 +787,39 @@ return [str.slice(0, idx), str.slice(idx + 1)];
 }
 const parsedConfigs = rawVlessLinks.map((uri, i) => parseVlessUri(uri, i));
 let isCompactLayout = false;
+let activeRegionFilter = 'all';
 let islandTimeout = null;
 const themes = ['default', 'cosmos', 'sunset', 'cyber'];
 let currentThemeIdx = 0;
+// Region Filter Switcher
+function setRegionFilter(region) {
+activeRegionFilter = region;
+const tabs = ['all', 'usa', 'jp'];
+tabs.forEach(t => {
+const btn = document.getElementById(`tab-${t}`);
+if (!btn) return;
+if (t === region) {
+btn.className = 'ios-btn flex-1 sm:flex-initial px-4 py-2 rounded-xl text-xs font-bold bg-gradient-to-r from-cyan-500/40 to-blue-500/40 border border-cyan-300/40 text-white transition';
+} else {
+btn.className = 'ios-btn flex-1 sm:flex-initial px-4 py-2 rounded-xl text-xs font-bold bg-white/5 hover:bg-white/10 border border-transparent text-slate-300 transition';
+}
+});
+filterConfigs();
+}
+// Copy Region Specific Configs
+function copyRegionConfigs(region) {
+const list = parsedConfigs.filter(c => c.region === region).map(c => c.raw);
+copyTextToClipboard(list.join('\n'));
+const regionName = region === 'usa' ? 'Ø¢Ù
+Ø±ÛÚ©Ø§ ðºð¸' : 'ÚØ§Ù¾Ù ð¯ðµ';
+notifyDynamicIsland(`ÙØ± Û³ Ú©Ø§ÙÙÛÚ¯ ${regionName} Ø¯Ø± Ú©ÙÛÙ¾âØ¨ÙØ±Ø¯ Ú©Ù¾Û Ø´Ø¯ÙØ¯!`, 'Ú©Ù¾Û Ø´Ø¯ â', 'emerald');
+}
 // Render Config Cards (Clean layout without Host/SNI, Path, or FP)
 function renderConfigs(filterText = '') {
 const container = document.getElementById('configsContainer');
 const q = filterText.trim().toLowerCase();
 const filtered = parsedConfigs.filter(cfg => {
+if (activeRegionFilter !== 'all' && cfg.region !== activeRegionFilter) return false;
 if (!q) return true;
 return (
 cfg.ip.toLowerCase().includes(q) ||
@@ -764,7 +833,7 @@ container.innerHTML = `
 <div class="col-span-full ios-glass rounded-3xl p-10 text-center">
 <p class="text-base text-slate-300 font-semibold mb-2">ÙÛÚ Ú©Ø§ÙÙÛÚ¯Û Ù
 Ø·Ø§Ø¨Ù Ø¨Ø§ Ø¹Ø¨Ø§Ø±Øª Ø¬Ø³ØªØ¬Ù Ø´Ø¯Ù ÛØ§ÙØª ÙØ´Ø¯.</p>
-<button onclick="document.getElementById('searchInput').value=''; filterConfigs();" class="ios-btn bg-white/10 border border-white/20 px-4 py-2 rounded-xl text-xs text-cyan-300">ÙÙ
+<button onclick="document.getElementById('searchInput').value=''; setRegionFilter('all');" class="ios-btn bg-white/10 border border-white/20 px-4 py-2 rounded-xl text-xs text-cyan-300">ÙÙ
 Ø§ÛØ´ Ù
 Ø¬Ø¯Ø¯ ÙÙ
 Ù ÙÙØ¯ÙØ§</button>
@@ -774,9 +843,9 @@ return;
 }
 container.innerHTML = filtered.map(cfg => {
 const pingColor = cfg.ping < 85 ? 'emerald' : (cfg.ping < 130 ? 'amber' : 'rose');
-const accentGradient = cfg.id === 1
+const accentGradient = cfg.accent === 'cyan'
 ? 'from-cyan-500/25 to-blue-500/10 border-cyan-400/35 text-cyan-300'
-: (cfg.id === 2
+: (cfg.accent === 'pink'
 ? 'from-pink-500/25 to-purple-500/10 border-pink-400/35 text-pink-300'
 : 'from-purple-500/25 to-indigo-500/10 border-purple-400/35 text-purple-300');
 return `
@@ -787,7 +856,7 @@ onmousemove="handleCardSpotlight(event, this)"
 <!-- Top Card Header: Server Badge & Live Ping -->
 <div>
 <div class="flex items-center justify-between gap-2 mb-4">
-<span class="text-xs font-bold px-3 py-1 rounded-full bg-gradient-to-r ${accentGradient} border">
+<span class="text-xs font-bold px-3.5 py-1 rounded-full bg-gradient-to-r ${accentGradient} border">
 ${cfg.badge}
 </span>
 <!-- Live Ping Pill -->
@@ -802,7 +871,7 @@ ${cfg.badge}
 <div class="flex items-center justify-between gap-3 mb-5 bg-white/[0.04] border border-white/10 rounded-2xl p-3.5">
 <div class="flex items-center gap-3 min-w-0">
 <div class="w-11 h-11 rounded-2xl bg-gradient-to-br from-white/15 to-white/5 border border-white/20 flex items-center justify-center text-2xl shrink-0 shadow-inner">
-ðºð¸
+${cfg.flag}
 </div>
 <div class="min-w-0">
 <h3 dir="ltr" class="text-base sm:text-lg font-extrabold text-white truncate tracking-tight">
@@ -819,7 +888,7 @@ VLESS â¢ ${cfg.type} â¢ ${cfg.security}
 <!-- Clean Parameters Spatial Grid (Only IP & Port) -->
 <div class="grid grid-cols-2 gap-2.5 mb-5 text-xs">
 <!-- IP Address (Click to Copy) -->
-<div onclick="copyParameter('${cfg.ip}', 'Ø¢Ø¯Ø±Ø³ IP Ø³Ø±ÙØ± #${cfg.id}')" class="cursor-pointer bg-black/30 hover:bg-black/45 border border-white/10 hover:border-cyan-400/40 rounded-2xl p-3.5 transition group/item">
+<div onclick="copyParameter('${cfg.ip}', 'Ø¢Ø¯Ø±Ø³ IP (${cfg.badge})')" class="cursor-pointer bg-black/30 hover:bg-black/45 border border-white/10 hover:border-cyan-400/40 rounded-2xl p-3.5 transition group/item">
 <div class="flex items-center justify-between text-slate-400 mb-1">
 <span>Ø¢Ø¯Ø±Ø³ Ø¢ÛâÙ¾Û (IP)</span>
 <svg class="w-3.5 h-3.5 opacity-40 group-hover/item:opacity-100 text-cyan-300 transition" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -879,7 +948,7 @@ title="ÙÛÙÚ© Ø®Ø§Ù
 <div class="bg-black/45 border border-white/15 rounded-2xl p-3.5 space-y-2.5 text-xs">
 <div class="flex items-center justify-between border-b border-white/10 pb-2">
 <span class="font-bold text-cyan-300">Ù
-Ø´Ø®ØµØ§Øª ÙÙØ¯ #${cfg.id}</span>
+Ø´Ø®ØµØ§Øª ${cfg.badge}</span>
 <button onclick="copyParameter('${cfg.uuid}', 'Ø´ÙØ§Ø³Ù UUID')" class="text-[11px] bg-white/10 hover:bg-white/20 px-2 py-0.5 rounded-lg text-slate-200">
 Ú©Ù¾Û UUID
 </button>
@@ -952,14 +1021,15 @@ badge.textContent = badgeText;
 dot.className = `w-2.5 h-2.5 rounded-full bg-${color}-400 ping-dot-ring relative`;
 islandTimeout = setTimeout(() => {
 island.classList.remove('island-expanded');
-statusText.textContent = 'Ø³Ù¾Ø± ÙØ¶Ø§ÛÛ iOS 27 â¢ Û³ ÙÙØ¯ ÙØ¹Ø§Ù';
+statusText.textContent = 'ÙØ§Ø¨ Ú©Ø§ÙÙÛÚ¯ ÙØ§Û ÙÛÙØ¯Ø§Ø³Ú©Ø±Ø§ÛØ¨ Ù
+ÙØ§Ø³Ø¨ Ú©Ø´ÙØ± Ø§ÛØ±Ø§Ù';
 badge.textContent = 'VLESS+TLS';
 dot.className = 'w-2.5 h-2.5 rounded-full bg-emerald-400 ping-dot-ring relative';
 }, 3200);
 }
 function toggleIslandWidget() {
 const avg = document.getElementById('avgPingDisplay').textContent;
-notifyDynamicIsland(`Ø³Ø±ÙØ±ÙØ§Û Las Vegas Casino Ù¾Ø§ÛØ¯Ø§Ø± â¢ Ù¾ÛÙÚ¯ Ù
+notifyDynamicIsland(`Ø³Ø±ÙØ±ÙØ§Û ÙÛÙØ¯Ø§Ø³Ú©Ø±Ø§ÛØ¨ Ù¾Ø§ÛØ¯Ø§Ø± â¢ Ù¾ÛÙÚ¯ Ù
 ÛØ§ÙÚ¯ÛÙ: ${avg}`, 'Ø¢Ù
 Ø§Ø¯Ù Ø§ØªØµØ§Ù', 'cyan');
 }
@@ -968,7 +1038,7 @@ function copySingleConfig(id) {
 const cfg = parsedConfigs.find(c => c.id === id);
 if (!cfg) return;
 copyTextToClipboard(cfg.raw);
-notifyDynamicIsland(`Ú©Ø§ÙÙÛÚ¯ ÙÙØ¯ #${cfg.id} (${cfg.ip}) Ø¯Ø± Ú©ÙÛÙ¾âØ¨ÙØ±Ø¯ Ú©Ù¾Û Ø´Ø¯!`, 'Ú©Ù¾Û Ø´Ø¯ â', 'emerald');
+notifyDynamicIsland(`Ú©Ø§ÙÙÛÚ¯ ${cfg.badge} (${cfg.ip}) Ø¯Ø± Ú©ÙÛÙ¾âØ¨ÙØ±Ø¯ Ú©Ù¾Û Ø´Ø¯!`, 'Ú©Ù¾Û Ø´Ø¯ â', 'emerald');
 const btnText = document.getElementById(`copyBtnText-${id}`);
 if (btnText) {
 const orig = btnText.textContent;
@@ -988,10 +1058,10 @@ const joined = rawVlessLinks.join('\n');
 if (asBase64) {
 const b64 = btoa(unescape(encodeURIComponent(joined)));
 copyTextToClipboard(b64);
-notifyDynamicIsland('Ú©Ø¯ Ø§Ø´ØªØ±Ø§Ú© Base64 ÙØ± Û³ Ø³Ø±ÙØ± Ú©Ù¾Û Ø´Ø¯!', 'Base64 Sub', 'purple');
+notifyDynamicIsland('Ú©Ø¯ Ø§Ø´ØªØ±Ø§Ú© Base64 ÙØ± Û¶ Ø³Ø±ÙØ± Ú©Ù¾Û Ø´Ø¯!', 'Base64 Sub', 'purple');
 } else {
 copyTextToClipboard(joined);
-notifyDynamicIsland('ÙØ± Û³ Ú©Ø§ÙÙÛÚ¯ Las Vegas Casino Ø¯Ø± Ú©ÙÛÙ¾âØ¨ÙØ±Ø¯ Ú©Ù¾Û Ø´Ø¯ÙØ¯!', 'Û³ ÙÙØ¯ Ú©Ù¾Û Ø´Ø¯ â', 'emerald');
+notifyDynamicIsland('ÙØ± Û¶ Ú©Ø§ÙÙÛÚ¯ ÙÛÙØ¯Ø§Ø³Ú©Ø±Ø§ÛØ¨ Ø¯Ø± Ú©ÙÛÙ¾âØ¨ÙØ±Ø¯ Ú©Ù¾Û Ø´Ø¯ÙØ¯!', 'Û¶ ÙÙØ¯ Ú©Ù¾Û Ø´Ø¯ â', 'emerald');
 }
 }
 // Export Subscription as .txt File
@@ -1001,7 +1071,7 @@ const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
 const url = URL.createObjectURL(blob);
 const a = document.createElement('a');
 a.href = url;
-a.download = 'USA-Las-Vegas-Casino-VLESS.txt';
+a.download = 'Windscribe-VLESS-Hub.txt';
 document.body.appendChild(a);
 a.click();
 document.body.removeChild(a);
@@ -1015,7 +1085,7 @@ function openQrModal(id) {
 const cfg = parsedConfigs.find(c => c.id === id);
 if (!cfg) return;
 activeQrText = cfg.raw;
-document.getElementById('qrModalBadge').textContent = `ÙÙØ¯ Ø§Ø®ØªØµØ§ØµÛ #${cfg.id} â¢ VLESS â¢ WS â¢ TLS`;
+document.getElementById('qrModalBadge').textContent = `${cfg.badge} â¢ VLESS â¢ WS â¢ TLS`;
 document.getElementById('qrModalTitle').textContent = cfg.title;
 document.getElementById('qrModalSubtitle').textContent = `${cfg.ip}:${cfg.port} â¢ VLESS â¢ WS â¢ TLS`;
 const copyBtn = document.getElementById('qrModalCopyBtn');
@@ -1026,17 +1096,17 @@ generateQrOnCanvas(cfg.raw);
 const modal = document.getElementById('qrModal');
 modal.classList.remove('hidden');
 modal.classList.add('flex');
-notifyDynamicIsland(`Ú©ÛÙØ¢Ø± Ú©Ø¯ ÙÙØ¯ #${cfg.id} Ø¢Ù
+notifyDynamicIsland(`Ú©ÛÙØ¢Ø± Ú©Ø¯ ${cfg.badge} Ø¢Ù
 Ø§Ø¯Ù Ø§Ø³Ú©Ù Ø§Ø³Øª`, 'QR Code', 'cyan');
 }
-// Open Batch QR Modal (Base64 Sub of all 3 configs)
+// Open Batch QR Modal (Base64 Sub of all 6 configs)
 function openBatchQrModal() {
 const joined = rawVlessLinks.join('\n');
 const b64 = btoa(unescape(encodeURIComponent(joined)));
 activeQrText = joined;
 document.getElementById('qrModalBadge').textContent = 'Ú©ÛÙØ¢Ø± Ú©Ø¯ Ø§Ø´ØªØ±Ø§Ú© ÛÚ©Ù¾Ø§Ø±ÚÙ (ÙÙ
-Ù Û³ Ø³Ø±ÙØ±)';
-document.getElementById('qrModalTitle').textContent = 'USA ðºð¸ Las Vegas Casino (All 3 Nodes)';
+Ù Û¶ Ø³Ø±ÙØ±)';
+document.getElementById('qrModalTitle').textContent = 'VLESS Hub | Windscribe (USA ðºð¸ & JP ð¯ðµ)';
 document.getElementById('qrModalSubtitle').textContent = 'VLESS â¢ WS â¢ TLS â¢ Port 443';
 const copyBtn = document.getElementById('qrModalCopyBtn');
 copyBtn.onclick = () => {
@@ -1046,7 +1116,7 @@ generateQrOnCanvas(b64);
 const modal = document.getElementById('qrModal');
 modal.classList.remove('hidden');
 modal.classList.add('flex');
-notifyDynamicIsland('Ú©ÛÙØ¢Ø± Ú©Ø¯ Ø§Ø´ØªØ±Ø§Ú© Ú©ÙÛ ÙØ± Û³ Ø³Ø±ÙØ± ØªÙÙÛØ¯ Ø´Ø¯', 'Batch QR', 'purple');
+notifyDynamicIsland('Ú©ÛÙØ¢Ø± Ú©Ø¯ Ø§Ø´ØªØ±Ø§Ú© Ú©ÙÛ ÙØ± Û¶ Ø³Ø±ÙØ± ØªÙÙÛØ¯ Ø´Ø¯', 'Batch QR', 'purple');
 }
 function generateQrOnCanvas(value) {
 const canvas = document.getElementById('qrCanvas');
@@ -1065,7 +1135,7 @@ padding: 16
 function downloadQrImage() {
 const canvas = document.getElementById('qrCanvas');
 const link = document.createElement('a');
-link.download = 'Las-Vegas-Casino-VLESS-QR.png';
+link.download = 'Windscribe-VLESS-QR.png';
 link.href = canvas.toDataURL('image/png');
 link.click();
 notifyDynamicIsland('ØªØµÙÛØ± Ú©ÛÙØ¢Ø± Ú©Ø¯ Ø¨Ø§ Ú©ÛÙÛØª Ø¨Ø§ÙØ§ Ø°Ø®ÛØ±Ù Ø´Ø¯!', 'PNG Saved', 'cyan');
@@ -1079,15 +1149,17 @@ modal.classList.remove('flex');
 function runSmartPingTest() {
 const btnIcon = document.getElementById('pingBtnIcon');
 btnIcon.classList.add('animate-spin');
-notifyDynamicIsland('Ø¯Ø± Ø­Ø§Ù Ø¨Ø±Ø±Ø³Û Ù¾ÛÙÚ¯ Ù ÙÙØ¯Ø´ÛÚ© TLS Ø³Ø±ÙØ±ÙØ§Û ÙØ§Ø³ ÙÚ¯Ø§Ø³...', 'Ø¯Ø± Ø­Ø§Ù ØªØ³Øª...', 'amber');
+notifyDynamicIsland('Ø¯Ø± Ø­Ø§Ù Ø¨Ø±Ø±Ø³Û Ù¾ÛÙÚ¯ Ù ÙÙØ¯Ø´ÛÚ© TLS Ø³Ø±ÙØ±ÙØ§Û Ø¢Ù
+Ø±ÛÚ©Ø§ Ù ÚØ§Ù¾Ù...', 'Ø¯Ø± Ø­Ø§Ù ØªØ³Øª...', 'amber');
 parsedConfigs.forEach(cfg => {
 const pingEl = document.getElementById(`pingValue-${cfg.id}`);
 if (pingEl) pingEl.textContent = '... ms';
 });
 setTimeout(() => {
 let sum = 0;
+const bases = [62, 74, 79, 68, 78, 84];
 parsedConfigs.forEach((cfg, idx) => {
-const base = idx === 0 ? 58 : (idx === 1 ? 74 : 79);
+const base = bases[idx] || 75;
 const jitter = Math.floor(Math.random() * 19) - 5;
 cfg.ping = Math.max(42, base + jitter);
 sum += cfg.ping;
@@ -1192,7 +1264,7 @@ closeGuideModal();
 // Initialize on Window Load
 window.onload = function () {
 renderConfigs();
-document.getElementById('rawBatchBox').textContent = rawVlessLinks.join('\n\n');
+document.getElementById('rawBatchBox').textContent = parsedConfigs.map(c => c.maskedPreview).join('\n\n');
 };
 </script>
 </body>
