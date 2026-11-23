@@ -1,11 +1,17 @@
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryption=none&type=tcp#📊 Remaining: 919.31 GB
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryption=none&type=tcp#📊 Remaining: 757.05 GB
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryption=none&type=tcp#✈️ Telegram: @AtbiNNN
 vless://b538377e-c372-414d-bd02-becfed21852f@162.159.204.1:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FusiHjIz&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Las%20Vegas%20Casino
 vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FusiHjIz&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Las%20Vegas%20Casino
 vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FusiHjIz&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Las%20Vegas%20Casino
+vless://b538377e-c372-414d-bd02-becfed21852f@162.159.204.1:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FusJ7vui&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Miami%20Vice
+vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FusJ7vui&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Miami%20Vice
+vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FusJ7vui&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Miami%20Vice
+vless://b538377e-c372-414d-bd02-becfed21852f@162.159.204.1:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Fu7HtaBd&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Los%20Angeles%20Dogg
+vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Fu7HtaBd&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Los%20Angeles%20Dogg
+vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Fu7HtaBd&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Los%20Angeles%20Dogg
 vless://b538377e-c372-414d-bd02-becfed21852f@162.159.204.1:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FjpyBT7v&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20Shinkansen
 vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FjpyBT7v&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20Shinkansen
 vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FjpyBT7v&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20JP%20Tokyo%20Shinkansen
-vless://b538377e-c372-414d-bd02-becfed21852f@162.159.204.1:443?encryption=none&host=shazam.wbciran.com&path=%2Ftrn7TJz&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20Lygos
-vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?encryption=none&host=shazam.wbciran.com&path=%2Ftrn7TJz&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20Lygos
-vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?encryption=none&host=shazam.wbciran.com&path=%2Ftrn7TJz&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20Lygos
+vless://b538377e-c372-414d-bd02-becfed21852f@162.159.204.1:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Ftrn7TJz&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20Lygos
+vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Ftrn7TJz&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20Lygos
+vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.62:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2Ftrn7TJz&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20Istanbul%20Lygos
