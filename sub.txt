@@ -1,4 +1,4 @@
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryption=none&type=tcp#📊 Remaining: 1057.25 GB
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryption=none&type=tcp#📊 Remaining: 921.42 GB
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=none&encryption=none&type=tcp#✈️ Telegram: @AtbiNNN
 vless://b538377e-c372-414d-bd02-becfed21852f@162.159.252.227:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FusiHjIz&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Las%20Vegas%20Casino
 vless://b538377e-c372-414d-bd02-becfed21852f@162.159.249.219:443?encryption=none&fp=chrome&host=shazam.wbciran.com&path=%2FusiHjIz&security=tls&sni=shazam.wbciran.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Las%20Vegas%20Casino
